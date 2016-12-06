@@ -1,0 +1,30 @@
+Fungsi dari pengaturan deepfrezee pada Pika billing server adalah ?|Mengganti password deepfreeze , membuka dan menutup deepfreeze|Mengaktifkan deepfreeze dari server dan mematikannya lagi|Mengaktifkan deepfreeze dan men-thawed deepfreeze dari server|Menghapus deepfreeze dari server|C|2161|2160|2220
+Apa penyebab situs-situs tidak dapat di blok ?|Situs-situs yang ingin di blok sudah terdaftar di blok situs.|Client belum terinstal blok situs dengan benar.|Client sedang digunakan.|Situs-situs yang ingin di blok sudah terdaftar pada list blok situs.|B|2163|2162|2221
+Maksud dari tanda "X" pada gambar di bawah adalah?|Client sudah terinstal blok situs.|Client  belum terinstal blok situs.|Client sedang dipakai.|Client tidak sedang dipakai.|B|2165|2164|2222
+Pengaturan deep frezee terdapat pada?|Atur blok situs.|Pengaturan Software Security.|Manual Update Client|Bandwitdh Manajemen.|B|2167|2166|2223
+Apa penyebab pengaturan deepfreeze dari server Pika Billing tidak berfungsi dengan benar ?|Password deepfrezee tidak sama antara pc client yang lain.|PC client sedang menyala.|Menggunakan program deepfreeze yang beda antara tiap client.|Menggunakan program shadow defender|A|2169|2168|2224
+Gambar dengan huruf dengan tanda panah dibawah menunjukkan setting untuk ?|Pengaturan deepfreeze|Pengaturan Shadow Defender|Pengaturan blok situs|List URL untuk di blok|D|2171|2170|2225
+Tampilan dibawah menunjukan popup dialog untuk ?|Dialog box status instalasi blok situs|Status client aktif|Dialog input situs yang akan di blok|Dialog status deepfreeze|C|2173|2172|2226
+Selain program keamanan Deepfrezee, Pika Billing server dapat juga membuka program keamanan lainnya, yaitu ?|Time Frezee|Disklock security|Shadow Defender|Kids lock security|C|2175|2174|2227
+Manual update client berfungsi untuk ?|Untuk meng-update client dari server luar|Untuk meng-update games yang ada di client|Untuk men-gupdate client dari server pika diwarnet|Untuk men-gupdate server pika billing|C|2177|2176|2228
+Gambar dibawah "list URL untuk blok" dan "status instalasi drive" terdapat pada menu  ?|Harga|Bandwidth manager|Pengaturan deepfrezee|Atur PC|D|2179|2178|2229
+Pada pembagian bandwith manajemen terdapat 2 satuan kecepatan, yaitu?|Gbps dan Mbps|Kbps dan Gbps|KBps dan Bps|Mbps dan Kbps|D|2181|2180|2230
+Gambar tanda panah di bawah menunjukan kolom?|Kecepatan bandwith|Sudah terinstal shadow defender|Input password shadow defender|Input password deepfrezee|C|2183|2182|2231
+Situs-situs dapat di blok menggunakan Pika Blok situs kecuali ?|youjizz.com|redtube.com|xhamster.com|youtube.com|D|2185|2184|2232
+Gambar dialog deepfrezee dan shadow defender dibawah terdapat di dalam menu ?|Server manajemen|Client|Harga|Atur Pc|D|2187|2186|2233
+Pengaturan deepfrezee dapat di buka melalui?|Server manajemen >> set server >> set basic >> pengaturan deepfrezee|Manajemen Warnet >> Skin >> pengaturan deepfrezee|Client >> konfigurasi client >> setclient >> pengaturan deepfrezee|Atur PC >> pengaturan Software Security >> pengaturan Deepfreeze|D|2189|2188|2234
+Gambar menu dibawah terdapat di dalam menu ?|Atur Blok Situs|Pengaturan Software Security|Konfigurasi Client|Set Client|A|2191|2190|2235
+Menu di bawah berada di dalam menu ?|Atur Blok Situs|Pengaturan Software Security|Konfigurasi Client|Set Client|B|2193|2192|2236
+Gambar yang di tunjukan dengan lingkaran merah dibawah adalah kolom ?|Manual update|Status Client|Versi client|Update client|C|2195|2194|2237
+Setting di bawah menunjukan bahwa kecepatan internet ?|Dibatasi minimal 512 Kbps|Dibatasi maksimal 512 Kbps|Rata-rata 512 Kbps|Tidak dibatasi|D|2197|2196|2238
+Gambar dibawah menunjukan bahwa bandwidth PC client no.5 di limit sebesar ?|1 Mbps|1 Kbps|Unlimited|512 Kbps|C|2199|2198|2239
+File apa yang berfungsi untuk instalasi PIKABlok Situs ?|pikaBlock.exe|pikaBlockexecute.exe|pikaBlockPackage.exe|A dan C benar|D|2432|2431|2446
+Window di bawah ini berfungsi untuk instalasi apa ?|PIKAClient|PIKABilling|PIKASoftware|PIKABlok Situs|D|2440|2439|2450
+Tombol apa yang digunakan untuk masuk ke dalam Normal Mode Shadow Defender ?|Apply|Enter Shadow Mode|Exit Shadow Mode|Tutup|C|2438|2437|2449
+Apa yang harus diperhatikan untuk password DeepFreeze pada menu Pengaturan DeepFreeze ?|Password minimal 8 karakter|Harus ada huruf dan angka|Harus ada huruf kecil, huruf besar dan angka|Password DeepFreeze harus sama di semua PC client|D|2428|2427|2444
+Bagaimana penulisan URL website yang ingin di-blok ?|youjizz.com|www.youjizz.com|http://www.youjizz.com|http://www.youjizz.com/|A|2430|2429|2445
+Keberhasilan instalasi PIKABlok Situs ditandai dengan huruf apa ?|X|A|O|OK|C|2422|2421|2441
+Versi DeepFreeze yang bisa dikontrol adalah ?|Versi 7 saja|Versi 5 dan 6|Versi 6 dan 7|Versi 5, 6 dan 7|C|2426|2425|2443
+Tombol apa yang digunakan untuk memasukkan daftar website yang ingin di-blok menggunakan notepad ?|Install/uninstall PIKABlok Situs di client|File|Baru|B dan C benar|B|2436|2435|2448
+Driver PIKABlok Situs bisa diinstall apabila PC dalam keadaan bagaimana ?|Dalam keadaan menyala|Dalam keadaan menyala dan main gratis|Dalam keadaan menyala dan main paket|B dan C benar|B|2424|2423|2442
+File pikablockpackage.exe digunakan untuk instalasi apa ?|PIKABlok Program|PIKABlok Situs|PIKABlok Web|PIKABlok Virus|B|2434|2433|2447

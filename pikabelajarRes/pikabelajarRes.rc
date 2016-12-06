@@ -1,0 +1,593 @@
+//Microsoft Developer Studio generated resource script.
+//
+#include "resource.h"
+
+#define APSTUDIO_READONLY_SYMBOLS
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 2 resource.
+//
+#include "afxres.h"
+
+/////////////////////////////////////////////////////////////////////////////
+#undef APSTUDIO_READONLY_SYMBOLS
+
+/////////////////////////////////////////////////////////////////////////////
+// Korean resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_KOR)
+#ifdef _WIN32
+LANGUAGE LANG_KOREAN, SUBLANG_DEFAULT
+#pragma code_page(949)
+#endif //_WIN32
+
+#ifdef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// TEXTINCLUDE
+//
+
+1 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "resource.h\0"
+END
+
+2 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "#include ""afxres.h""\r\n"
+    "\0"
+END
+
+3 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "\r\n"
+    "\0"
+END
+
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// GIF
+//
+
+IDR_GIF1                GIF     DISCARDABLE     "client\\admin pass_besar.gif"
+IDR_GIF2                GIF     DISCARDABLE     "client\\admin pass_kecil.gif"
+IDR_GIF3                GIF     DISCARDABLE     "client\\blok drive_besar.gif"
+IDR_GIF4                GIF     DISCARDABLE     "client\\blok drive_kecil.gif"
+IDR_GIF5                GIF     DISCARDABLE     "client\\blok program_besar.gif"
+IDR_GIF6                GIF     DISCARDABLE     "client\\blok program_kecil.gif"
+IDR_GIF7                GIF     DISCARDABLE     "client\\detail biaya_besar.gif"
+IDR_GIF8                GIF     DISCARDABLE     "client\\detail biaya_kecil.gif"
+IDR_GIF9                GIF     DISCARDABLE     "client\\Hardware_besar.gif"
+IDR_GIF10               GIF     DISCARDABLE     "client\\Hardware_kecil.gif"
+IDR_GIF11               GIF     DISCARDABLE     "client\\jalankan program_besar.gif"
+IDR_GIF12               GIF     DISCARDABLE     "client\\jalankan program_kecil.gif"
+IDR_GIF13               GIF     DISCARDABLE     "client\\kategori_besar.gif"
+IDR_GIF14               GIF     DISCARDABLE     "client\\kategori_kecil.gif"
+IDR_GIF15               GIF     DISCARDABLE     "client\\logout_besar.gif"
+IDR_GIF16               GIF     DISCARDABLE     "client\\logout_kecil.gif"
+IDR_GIF17               GIF     DISCARDABLE     "client\\minimize_besar.gif"
+IDR_GIF18               GIF     DISCARDABLE     "client\\minimize_kecil.gif"
+IDR_GIF19               GIF     DISCARDABLE     "client\\mulai gratis_besar.gif"
+IDR_GIF20               GIF     DISCARDABLE     "client\\mulai gratis_kecil.gif"
+IDR_GIF21               GIF     DISCARDABLE     "client\\option client_besar.gif"
+IDR_GIF22               GIF     DISCARDABLE     "client\\option client_kecil.gif"
+IDR_GIF23               GIF     DISCARDABLE     "client\\pause_besar.gif"
+IDR_GIF24               GIF     DISCARDABLE     "client\\pause_kecil.gif"
+IDR_GIF25               GIF     DISCARDABLE     "client\\pilih client_besar.gif"
+IDR_GIF26               GIF     DISCARDABLE     "client\\pilih client_kecil.gif"
+IDR_GIF27               GIF     DISCARDABLE     "client\\pindah pc_besar.gif"
+IDR_GIF28               GIF     DISCARDABLE     "client\\pindah pc_kecil.gif"
+IDR_GIF29               GIF     DISCARDABLE     "client\\resolusi_besar.gif"
+IDR_GIF30               GIF     DISCARDABLE     "client\\resolusi_kecil.gif"
+IDR_GIF31               GIF     DISCARDABLE     "client\\security_besar.gif"
+IDR_GIF32               GIF     DISCARDABLE     "client\\security_kecil.gif"
+IDR_GIF33               GIF     DISCARDABLE     "client\\set IP_besar.gif"
+IDR_GIF34               GIF     DISCARDABLE     "client\\set IP_kecil.gif"
+IDR_GIF35               GIF     DISCARDABLE     "client\\Set wallpaper_besar.gif"
+IDR_GIF36               GIF     DISCARDABLE     "client\\set wallpaper_kecil.gif"
+IDR_GIF37               GIF     DISCARDABLE     "client\\software_besar.gif"
+IDR_GIF38               GIF     DISCARDABLE     "client\\software_kecil.gif"
+IDR_GIF39               GIF     DISCARDABLE     "client\\tampilan tabel_besar.gif"
+IDR_GIF40               GIF     DISCARDABLE     "client\\tampilan tabel_kecil.gif"
+IDR_GIF41               GIF     DISCARDABLE     "HARGA\\Block gunakan postpay_besar.gif"
+IDR_GIF42               GIF     DISCARDABLE     "HARGA\\Block gunakan postpay_kecil.gif"
+IDR_GIF43               GIF     DISCARDABLE     "HARGA\\block login postpay di client_besar.gif"
+IDR_GIF44               GIF     DISCARDABLE     "HARGA\\block login postpay di client_kecil.gif"
+IDR_GIF45               GIF     DISCARDABLE     "HARGA\\Bonus Waktu_besar.gif"
+IDR_GIF46               GIF     DISCARDABLE     "HARGA\\Bonus Waktu_kecil.gif"
+IDR_GIF47               GIF     DISCARDABLE     "HARGA\\Fungsi Login paket di client_besar.gif"
+IDR_GIF48               GIF     DISCARDABLE     "HARGA\\Fungsi Login paket di client_kecil.gif"
+IDR_GIF49               GIF     DISCARDABLE     "HARGA\\Funsi Paket Shortcut_besar.gif"
+IDR_GIF50               GIF     DISCARDABLE     "HARGA\\Funsi Paket Shortcut_kecil.gif"
+IDR_GIF51               GIF     DISCARDABLE     "HARGA\\Hasil selesai otomatis di tab belum bayar_besar.gif"
+IDR_GIF52               GIF     DISCARDABLE     "HARGA\\Hasil selesai otomatis di tab belum bayar_kecil.gif"
+IDR_GIF53               GIF     DISCARDABLE     "HARGA\\Jumlah Diskon_besar.gif"
+IDR_GIF54               GIF     DISCARDABLE     "HARGA\\Jumlah Diskon_kecil.gif"
+IDR_GIF55               GIF     DISCARDABLE     "HARGA\\Letak diseble postpay_besar.gif"
+IDR_GIF56               GIF     DISCARDABLE     "HARGA\\Letak diseble postpay_kecil.gif"
+IDR_GIF57               GIF     DISCARDABLE     "HARGA\\Letak Log Kode_besar.gif"
+IDR_GIF58               GIF     DISCARDABLE     "HARGA\\Letak Log Kode_kecil.gif"
+IDR_GIF59               GIF     DISCARDABLE     "HARGA\\Letak seting postpay dari client_besar.gif"
+IDR_GIF60               GIF     DISCARDABLE     "HARGA\\Letak seting postpay dari client_kecil.gif"
+IDR_GIF61               GIF     DISCARDABLE     "HARGA\\Membuat Kode Vocher_besar.gif"
+IDR_GIF62               GIF     DISCARDABLE     "HARGA\\Membuat Kode Vocher_kecil.gif"
+IDR_GIF63               GIF     DISCARDABLE     "HARGA\\Saat paket habis menjadi selesai_besar.gif"
+IDR_GIF64               GIF     DISCARDABLE     "HARGA\\Saat paket habis menjadi selesai_kecil.gif"
+IDR_GIF65               GIF     DISCARDABLE     "HARGA\\Seting Harga Kode Paket_besar.gif"
+IDR_GIF66               GIF     DISCARDABLE     "HARGA\\Seting Harga Kode Paket_kecil.gif"
+IDR_GIF67               GIF     DISCARDABLE     "HARGA\\Seting Harga siang dan malam_besar.gif"
+IDR_GIF68               GIF     DISCARDABLE     "HARGA\\Seting Harga siang dan malam_kecil.gif"
+IDR_GIF69               GIF     DISCARDABLE     "HARGA\\Seting Paket Durasi_besar.gif"
+IDR_GIF70               GIF     DISCARDABLE     "HARGA\\Seting Paket Durasi_kecil.gif"
+IDR_GIF71               GIF     DISCARDABLE     "HARGA\\Seting Paket Event_besar.gif"
+IDR_GIF72               GIF     DISCARDABLE     "HARGA\\Seting Paket Event_kecil.gif"
+IDR_GIF73               GIF     DISCARDABLE     "HARGA\\Seting Paket Jam_besar.gif"
+IDR_GIF74               GIF     DISCARDABLE     "HARGA\\Seting Paket Jam_kecil.gif"
+IDR_GIF75               GIF     DISCARDABLE     "HARGA\\Seting Paket Member_besar.gif"
+IDR_GIF76               GIF     DISCARDABLE     "HARGA\\Seting Paket Member_kecil.gif"
+IDR_GIF77               GIF     DISCARDABLE     "HARGA\\setpostpay_besar.gif"
+IDR_GIF78               GIF     DISCARDABLE     "HARGA\\setpostpay_kecil.gif"
+IDR_GIF79               GIF     DISCARDABLE     "HARGA\\Shortcut Paket_besar.gif"
+IDR_GIF80               GIF     DISCARDABLE     "HARGA\\Shortcut Paket_kecil.gif"
+IDR_GIF81               GIF     DISCARDABLE     "SERVER MANAJEMEN\\12_besar.gif"
+IDR_GIF82               GIF     DISCARDABLE     "SERVER MANAJEMEN\\12_kecil.gif"
+IDR_GIF83               GIF     DISCARDABLE     "SERVER MANAJEMEN\\13_besar.gif"
+IDR_GIF84               GIF     DISCARDABLE     "SERVER MANAJEMEN\\13_kecil.gif"
+IDR_GIF85               GIF     DISCARDABLE     "SERVER MANAJEMEN\\14_besar.gif"
+IDR_GIF86               GIF     DISCARDABLE     "SERVER MANAJEMEN\\14_kecil.gif"
+IDR_GIF87               GIF     DISCARDABLE     "SERVER MANAJEMEN\\15_besar.gif"
+IDR_GIF88               GIF     DISCARDABLE     "SERVER MANAJEMEN\\15_kecil.gif"
+IDR_GIF89               GIF     DISCARDABLE     "SERVER MANAJEMEN\\16_besar.gif"
+IDR_GIF90               GIF     DISCARDABLE     "SERVER MANAJEMEN\\16_kecil.gif"
+IDR_GIF91               GIF     DISCARDABLE     "SERVER MANAJEMEN\\17_besar.gif"
+IDR_GIF92               GIF     DISCARDABLE     "SERVER MANAJEMEN\\17_kecil.gif"
+IDR_GIF93               GIF     DISCARDABLE     "SERVER MANAJEMEN\\18_besar.gif"
+IDR_GIF94               GIF     DISCARDABLE     "SERVER MANAJEMEN\\18_kecil.gif"
+IDR_GIF95               GIF     DISCARDABLE     "SERVER MANAJEMEN\\19_besar.gif"
+IDR_GIF96               GIF     DISCARDABLE     "SERVER MANAJEMEN\\19_kecil.gif"
+IDR_GIF97               GIF     DISCARDABLE     "SERVER MANAJEMEN\\20_besar.gif"
+IDR_GIF98               GIF     DISCARDABLE     "SERVER MANAJEMEN\\20_kecil.gif"
+IDR_GIF99               GIF     DISCARDABLE     "SERVER MANAJEMEN\\Auto Lock Screen_besar.gif"
+IDR_GIF100              GIF     DISCARDABLE     "SERVER MANAJEMEN\\Auto Lock Screen_kecil.gif"
+IDR_GIF101              GIF     DISCARDABLE     "SERVER MANAJEMEN\\Auto Shutdown_besar.gif"
+IDR_GIF102              GIF     DISCARDABLE     "SERVER MANAJEMEN\\Auto Shutdown_kecil.gif"
+IDR_GIF103              GIF     DISCARDABLE     "SERVER MANAJEMEN\\Blink tabel_besar.gif"
+IDR_GIF104              GIF     DISCARDABLE     "SERVER MANAJEMEN\\Blink tabel_kecil.gif"
+IDR_GIF105              GIF     DISCARDABLE     "SERVER MANAJEMEN\\mode pause_besar.gif"
+IDR_GIF106              GIF     DISCARDABLE     "SERVER MANAJEMEN\\mode pause_kecil.gif"
+IDR_GIF107              GIF     DISCARDABLE     "SERVER MANAJEMEN\\Mode selesai client_besar.gif"
+IDR_GIF108              GIF     DISCARDABLE     "SERVER MANAJEMEN\\Mode selesai client_kecil.gif"
+IDR_GIF109              GIF     DISCARDABLE     "SERVER MANAJEMEN\\Server manajemen_besar.gif"
+IDR_GIF110              GIF     DISCARDABLE     "SERVER MANAJEMEN\\Server manajemen_kecil.gif"
+IDR_GIF111              GIF     DISCARDABLE     "SERVER MANAJEMEN\\Set Admin_besar.gif"
+IDR_GIF112              GIF     DISCARDABLE     "SERVER MANAJEMEN\\Set Admin_kecil.gif"
+IDR_GIF113              GIF     DISCARDABLE     "SERVER MANAJEMEN\\set notice pc user_besar.gif"
+IDR_GIF114              GIF     DISCARDABLE     "SERVER MANAJEMEN\\set notice pc user_kecil.gif"
+IDR_GIF115              GIF     DISCARDABLE     "SERVER MANAJEMEN\\Set print scanner_besar.gif"
+IDR_GIF116              GIF     DISCARDABLE     "SERVER MANAJEMEN\\Set print scanner_kecil.gif"
+IDR_GIF117              GIF     DISCARDABLE     "SERVER MANAJEMEN\\Set Server - Set Basic_besar.gif"
+IDR_GIF118              GIF     DISCARDABLE     "SERVER MANAJEMEN\\Set Server - Set Basic_kecil.gif"
+IDR_GIF119              GIF     DISCARDABLE     "SERVER MANAJEMEN\\Tutup Buku_besar.gif"
+IDR_GIF120              GIF     DISCARDABLE     "SERVER MANAJEMEN\\Tutup Buku_kecil.gif"
+IDR_GIF121              GIF     DISCARDABLE     "MANAJEMEN WARNET\\Admin Log_besar.gif"
+IDR_GIF122              GIF     DISCARDABLE     "MANAJEMEN WARNET\\Admin Log_kecil.gif"
+IDR_GIF123              GIF     DISCARDABLE     "MANAJEMEN WARNET\\Cari user & View message_besar.gif"
+IDR_GIF124              GIF     DISCARDABLE     "MANAJEMEN WARNET\\Cari user & View message_kecil.gif"
+IDR_GIF125              GIF     DISCARDABLE     "MANAJEMEN WARNET\\Custom display_besar.gif"
+IDR_GIF126              GIF     DISCARDABLE     "MANAJEMEN WARNET\\Custom display_kecil.gif"
+IDR_GIF127              GIF     DISCARDABLE     "MANAJEMEN WARNET\\Daftar member_besar.gif"
+IDR_GIF128              GIF     DISCARDABLE     "MANAJEMEN WARNET\\Daftar member_kecil.gif"
+IDR_GIF129              GIF     DISCARDABLE     "MANAJEMEN WARNET\\Daftar penjualan_besar.gif"
+IDR_GIF130              GIF     DISCARDABLE     "MANAJEMEN WARNET\\Daftar penjualan_kecil.gif"
+IDR_GIF131              GIF     DISCARDABLE     "MANAJEMEN WARNET\\Detail member_besar.gif"
+IDR_GIF132              GIF     DISCARDABLE     "MANAJEMEN WARNET\\Detail member_kecil.gif"
+IDR_GIF133              GIF     DISCARDABLE     "MANAJEMEN WARNET\\Fungsi refund_besar.gif"
+IDR_GIF134              GIF     DISCARDABLE     "MANAJEMEN WARNET\\Fungsi refund_kecil.gif"
+IDR_GIF135              GIF     DISCARDABLE     "MANAJEMEN WARNET\\Hide sidebar_besar.gif"
+IDR_GIF136              GIF     DISCARDABLE     "MANAJEMEN WARNET\\Hide sidebar_kecil.gif"
+IDR_GIF137              GIF     DISCARDABLE     "MANAJEMEN WARNET\\Input produk_besar.gif"
+IDR_GIF138              GIF     DISCARDABLE     "MANAJEMEN WARNET\\Input produk_kecil.gif"
+IDR_GIF139              GIF     DISCARDABLE     "MANAJEMEN WARNET\\kas_besar.gif"
+IDR_GIF140              GIF     DISCARDABLE     "MANAJEMEN WARNET\\kas_kecil.gif"
+IDR_GIF141              GIF     DISCARDABLE     "MANAJEMEN WARNET\\Manajemen CD_besar.gif"
+IDR_GIF142              GIF     DISCARDABLE     "MANAJEMEN WARNET\\Manajemen CD_kecil.gif"
+IDR_GIF143              GIF     DISCARDABLE     "MANAJEMEN WARNET\\Manajemen hutang_besar.gif"
+IDR_GIF144              GIF     DISCARDABLE     "MANAJEMEN WARNET\\Manajemen hutang_kecil.gif"
+IDR_GIF145              GIF     DISCARDABLE     "MANAJEMEN WARNET\\Member_besar.gif"
+IDR_GIF146              GIF     DISCARDABLE     "MANAJEMEN WARNET\\Member_kecil.gif"
+IDR_GIF147              GIF     DISCARDABLE     "MANAJEMEN WARNET\\nama member_besar.gif"
+IDR_GIF148              GIF     DISCARDABLE     "MANAJEMEN WARNET\\nama member_kecil.gif"
+IDR_GIF149              GIF     DISCARDABLE     "MANAJEMEN WARNET\\Prepay member_besar.gif"
+IDR_GIF150              GIF     DISCARDABLE     "MANAJEMEN WARNET\\Prepay member_kecil.gif"
+IDR_GIF151              GIF     DISCARDABLE     "MANAJEMEN WARNET\\produk batal_besar.gif"
+IDR_GIF152              GIF     DISCARDABLE     "MANAJEMEN WARNET\\produk batal_kecil.gif"
+IDR_GIF153              GIF     DISCARDABLE     "MANAJEMEN WARNET\\skin warna_besar.gif"
+IDR_GIF154              GIF     DISCARDABLE     "MANAJEMEN WARNET\\skin warna_kecil.gif"
+IDR_GIF155              GIF     DISCARDABLE     "MANAJEMEN WARNET\\skin_besar.gif"
+IDR_GIF156              GIF     DISCARDABLE     "MANAJEMEN WARNET\\Skin_kecil.gif"
+IDR_GIF157              GIF     DISCARDABLE     "MANAJEMEN WARNET\\Transfer terima_besar.gif"
+IDR_GIF158              GIF     DISCARDABLE     "MANAJEMEN WARNET\\Transfer terima_kecil.gif"
+IDR_GIF159              GIF     DISCARDABLE     "MANAJEMEN WARNET\\Tutup buku dan melihat laporan_besar.gif"
+IDR_GIF160              GIF     DISCARDABLE     "MANAJEMEN WARNET\\Tutup buku dan melihat laporan_kecil.gif"
+IDR_GIF161              GIF     DISCARDABLE     "ATUR PC\\aturPc1_besar.gif"
+IDR_GIF162              GIF     DISCARDABLE     "ATUR PC\\aturPc1_kecil.gif"
+IDR_GIF163              GIF     DISCARDABLE     "ATUR PC\\aturPc2_besar.gif"
+IDR_GIF164              GIF     DISCARDABLE     "ATUR PC\\aturPc2_Kecil.gif"
+IDR_GIF165              GIF     DISCARDABLE     "ATUR PC\\aturPc3_besar.gif"
+IDR_GIF166              GIF     DISCARDABLE     "ATUR PC\\aturPc3_kecil.gif"
+IDR_GIF167              GIF     DISCARDABLE     "ATUR PC\\aturPc4_besar.gif"
+IDR_GIF168              GIF     DISCARDABLE     "ATUR PC\\aturPc4_kecil.gif"
+IDR_GIF169              GIF     DISCARDABLE     "ATUR PC\\aturPc5_besar.gif"
+IDR_GIF170              GIF     DISCARDABLE     "ATUR PC\\aturPc5_kecil.gif"
+IDR_GIF171              GIF     DISCARDABLE     "ATUR PC\\aturPc6_besar.gif"
+IDR_GIF172              GIF     DISCARDABLE     "ATUR PC\\aturPc6_kecil.gif"
+IDR_GIF173              GIF     DISCARDABLE     "ATUR PC\\aturPc7_besar.gif"
+IDR_GIF174              GIF     DISCARDABLE     "ATUR PC\\aturPc7_kecil.gif"
+IDR_GIF175              GIF     DISCARDABLE     "ATUR PC\\aturPc8_besar.gif"
+IDR_GIF176              GIF     DISCARDABLE     "ATUR PC\\aturPc8_kecil.gif"
+IDR_GIF177              GIF     DISCARDABLE     "ATUR PC\\aturPc9_besar.gif"
+IDR_GIF178              GIF     DISCARDABLE     "ATUR PC\\aturPc9_kecil.gif"
+IDR_GIF179              GIF     DISCARDABLE     "ATUR PC\\aturPc10_besar.gif"
+IDR_GIF180              GIF     DISCARDABLE     "ATUR PC\\aturPc10_kecil.gif"
+IDR_GIF181              GIF     DISCARDABLE     "ATUR PC\\aturPc11_besar.gif"
+IDR_GIF182              GIF     DISCARDABLE     "ATUR PC\\aturPc11_kecil.gif"
+IDR_GIF183              GIF     DISCARDABLE     "ATUR PC\\aturPc12_besar.gif"
+IDR_GIF184              GIF     DISCARDABLE     "ATUR PC\\aturPc12_Kecil.gif"
+IDR_GIF185              GIF     DISCARDABLE     "ATUR PC\\aturPc13_besar.gif"
+IDR_GIF186              GIF     DISCARDABLE     "ATUR PC\\aturPc13_Kecil.gif"
+IDR_GIF187              GIF     DISCARDABLE     "ATUR PC\\aturPc14_besar.gif"
+IDR_GIF188              GIF     DISCARDABLE     "ATUR PC\\aturPc14_kecil.gif"
+IDR_GIF189              GIF     DISCARDABLE     "ATUR PC\\aturPc15_besar.gif"
+IDR_GIF190              GIF     DISCARDABLE     "ATUR PC\\aturPc15_Kecil.gif"
+IDR_GIF191              GIF     DISCARDABLE     "ATUR PC\\aturPc16_besar.gif"
+IDR_GIF192              GIF     DISCARDABLE     "ATUR PC\\aturPc16_kecil.gif"
+IDR_GIF193              GIF     DISCARDABLE     "ATUR PC\\aturPc17_besar.gif"
+IDR_GIF194              GIF     DISCARDABLE     "ATUR PC\\aturPc17_kecil.gif"
+IDR_GIF195              GIF     DISCARDABLE     "ATUR PC\\aturPc18_besar.gif"
+IDR_GIF196              GIF     DISCARDABLE     "ATUR PC\\aturPc18_kecil.gif"
+IDR_GIF197              GIF     DISCARDABLE     "ATUR PC\\aturPc19_besar.gif"
+IDR_GIF198              GIF     DISCARDABLE     "ATUR PC\\aturPc19_kecil.gif"
+IDR_GIF199              GIF     DISCARDABLE     "ATUR PC\\aturPc20_besar.gif"
+IDR_GIF200              GIF     DISCARDABLE     "ATUR PC\\aturPc20_kecil.gif"
+IDR_GIF201              GIF     DISCARDABLE     "MANAJEMEN WARNET_2\\Buku kas_besar.gif"
+IDR_GIF202              GIF     DISCARDABLE     "MANAJEMEN WARNET_2\\buku kas_kecil.gif"
+IDR_GIF203              GIF     DISCARDABLE     "MANAJEMEN WARNET_2\\Button repay_besar.gif"
+IDR_GIF204              GIF     DISCARDABLE     "MANAJEMEN WARNET_2\\Button repay_kecil.gif"
+IDR_GIF205              GIF     DISCARDABLE     "MANAJEMEN WARNET_2\\Button urut_besar.gif"
+IDR_GIF206              GIF     DISCARDABLE     "MANAJEMEN WARNET_2\\Button urut_kecil.gif"
+IDR_GIF207              GIF     DISCARDABLE     "MANAJEMEN WARNET_2\\Ctk lap singkat_besar.gif"
+IDR_GIF208              GIF     DISCARDABLE     "MANAJEMEN WARNET_2\\Ctk lap singkat_kecil.gif"
+IDR_GIF209              GIF     DISCARDABLE     "MANAJEMEN WARNET_2\\Detail transfer-terima_besar.gif"
+IDR_GIF210              GIF     DISCARDABLE     "MANAJEMEN WARNET_2\\Detail transfer-terima_kecil.gif"
+IDR_GIF211              GIF     DISCARDABLE     "MANAJEMEN WARNET_2\\Grafik member_besar.gif"
+IDR_GIF212              GIF     DISCARDABLE     "MANAJEMEN WARNET_2\\Grafik member_kecil.gif"
+IDR_GIF213              GIF     DISCARDABLE     "MANAJEMEN WARNET_2\\Informasi penjualan_besar.gif"
+IDR_GIF214              GIF     DISCARDABLE     "MANAJEMEN WARNET_2\\Informasi penjualan_kecil.gif"
+IDR_GIF215              GIF     DISCARDABLE     "MANAJEMEN WARNET_2\\Log member_besar.gif"
+IDR_GIF216              GIF     DISCARDABLE     "MANAJEMEN WARNET_2\\Log member_kecil.gif"
+IDR_GIF217              GIF     DISCARDABLE     "MANAJEMEN WARNET_2\\manajemen warnet_besar.gif"
+IDR_GIF218              GIF     DISCARDABLE     "MANAJEMEN WARNET_2\\manajemen warnet_kecil.gif"
+IDR_GIF219              GIF     DISCARDABLE     "MANAJEMEN WARNET_2\\Tambah antrian_besar.gif"
+IDR_GIF220              GIF     DISCARDABLE     "MANAJEMEN WARNET_2\\Tambah antrian_kecil.gif"
+IDR_GIF221              GIF     DISCARDABLE     "client_2\\blok daftar_besar.gif"
+IDR_GIF222              GIF     DISCARDABLE     "client_2\\blok daftar_kecil.gif"
+IDR_GIF223              GIF     DISCARDABLE     "client_2\\client status_besar.gif"
+IDR_GIF224              GIF     DISCARDABLE     "client_2\\client status_kecil.gif"
+IDR_GIF225              GIF     DISCARDABLE     "client_2\\fungsi_besar.gif"
+IDR_GIF226              GIF     DISCARDABLE     "client_2\\fungsi_kecil.gif"
+IDR_GIF227              GIF     DISCARDABLE     "client_2\\halaman admin_besar.gif"
+IDR_GIF228              GIF     DISCARDABLE     "client_2\\halaman admin_kecil.gif"
+IDR_GIF229              GIF     DISCARDABLE     "client_2\\kolom_besar.gif"
+IDR_GIF230              GIF     DISCARDABLE     "client_2\\kolom_kecil.gif"
+IDR_GIF231              GIF     DISCARDABLE     "client_2\\menu konfigurasi_besar.gif"
+IDR_GIF232              GIF     DISCARDABLE     "client_2\\menu konfigurasi_kecil.gif"
+IDR_GIF233              GIF     DISCARDABLE     "client_2\\remote_besar.gif"
+IDR_GIF234              GIF     DISCARDABLE     "client_2\\remote_kecil.gif"
+IDR_GIF235              GIF     DISCARDABLE     "client_2\\table size_besar.gif"
+IDR_GIF236              GIF     DISCARDABLE     "client_2\\table size_kecil.gif"
+IDR_GIF237              GIF     DISCARDABLE     "client_2\\tampilan table_besar.gif"
+IDR_GIF238              GIF     DISCARDABLE     "client_2\\tampilan table_kecil.gif"
+IDR_GIF239              GIF     DISCARDABLE     "client_2\\total_besar.gif"
+IDR_GIF240              GIF     DISCARDABLE     "client_2\\total_kecil.gif"
+IDR_GIF241              GIF     DISCARDABLE     "HARGA_2\\Gratis minimum_besar.gif"
+IDR_GIF242              GIF     DISCARDABLE     "HARGA_2\\Gratis minimum_kecil.gif"
+IDR_GIF243              GIF     DISCARDABLE     "HARGA_2\\Kelipatan harga3000_besar.gif"
+IDR_GIF244              GIF     DISCARDABLE     "HARGA_2\\Kelipatan harga3000_kecil.gif"
+IDR_GIF245              GIF     DISCARDABLE     "HARGA_2\\Kelipatan harga_besar.gif"
+IDR_GIF246              GIF     DISCARDABLE     "HARGA_2\\Kelipatan harga_kecil.gif"
+IDR_GIF247              GIF     DISCARDABLE     "HARGA_2\\Kode paket_besar.gif"
+IDR_GIF248              GIF     DISCARDABLE     "HARGA_2\\Kode paket_kecil.gif"
+IDR_GIF249              GIF     DISCARDABLE     "HARGA_2\\Login bebas_besar.gif"
+IDR_GIF250              GIF     DISCARDABLE     "HARGA_2\\Login bebas_kecil.gif"
+IDR_GIF251              GIF     DISCARDABLE     "HARGA_2\\Paket event tanda_besar.gif"
+IDR_GIF252              GIF     DISCARDABLE     "HARGA_2\\Paket event tanda_kecil.gif"
+IDR_GIF253              GIF     DISCARDABLE     "HARGA_2\\Paket event_besar.gif"
+IDR_GIF254              GIF     DISCARDABLE     "HARGA_2\\Paket event_kecil.gif"
+IDR_GIF255              GIF     DISCARDABLE     "HARGA_2\\Paket special_kecil.gif"
+IDR_GIF256              GIF     DISCARDABLE     "HARGA_2\\Paket spesial_besar.gif"
+IDR_GIF257              GIF     DISCARDABLE     "HARGA_2\\Tampilan login bebas_besar.gif"
+IDR_GIF258              GIF     DISCARDABLE     "HARGA_2\\Tampilan login bebas_kecil.gif"
+IDR_GIF259              GIF     DISCARDABLE     "HARGA_2\\Tarif per unit_besar.gif"
+IDR_GIF260              GIF     DISCARDABLE     "HARGA_2\\Tarif per unit_kecil.gif"
+IDR_GIF261              GIF     DISCARDABLE     "SERVER MANAJEMEN_2\\Authorityadminboleh_besar.gif"
+IDR_GIF262              GIF     DISCARDABLE     "SERVER MANAJEMEN_2\\Authorityadminboleh_kecil.gif"
+IDR_GIF263              GIF     DISCARDABLE     "SERVER MANAJEMEN_2\\Authorityadminmenu_besar.gif"
+IDR_GIF264              GIF     DISCARDABLE     "SERVER MANAJEMEN_2\\Authorityadminmenu_kecil.gif"
+IDR_GIF265              GIF     DISCARDABLE     "SERVER MANAJEMEN_2\\Blok member hutang_besar.gif"
+IDR_GIF266              GIF     DISCARDABLE     "SERVER MANAJEMEN_2\\Blok member hutang_kecil.gif"
+IDR_GIF267              GIF     DISCARDABLE     "SERVER MANAJEMEN_2\\Cetaknota_besar.gif"
+IDR_GIF268              GIF     DISCARDABLE     "SERVER MANAJEMEN_2\\Cetaknota_kecil.gif"
+IDR_GIF269              GIF     DISCARDABLE     "SERVER MANAJEMEN_2\\DB Backup_besar.gif"
+IDR_GIF270              GIF     DISCARDABLE     "SERVER MANAJEMEN_2\\DB Backup_kecil.gif"
+IDR_GIF271              GIF     DISCARDABLE     "SERVER MANAJEMEN_2\\Managemen DB_besar.gif"
+IDR_GIF272              GIF     DISCARDABLE     "SERVER MANAJEMEN_2\\Managemen DB_kecil.gif"
+IDR_GIF273              GIF     DISCARDABLE     "SERVER MANAJEMEN_2\\Set Notice_besar.gif"
+IDR_GIF274              GIF     DISCARDABLE     "SERVER MANAJEMEN_2\\Set Notice_kecil.gif"
+IDR_GIF275              GIF     DISCARDABLE     "SERVER MANAJEMEN_2\\set printer default_besar.gif"
+IDR_GIF276              GIF     DISCARDABLE     "SERVER MANAJEMEN_2\\set printer default_kecil.gif"
+IDR_GIF277              GIF     DISCARDABLE     "SERVER MANAJEMEN_2\\Set Sound_besar.gif"
+IDR_GIF278              GIF     DISCARDABLE     "SERVER MANAJEMEN_2\\Set Sound_kecil.gif"
+IDR_GIF279              GIF     DISCARDABLE     "SERVER MANAJEMEN_2\\Susunan quick menu_besar.gif"
+IDR_GIF280              GIF     DISCARDABLE     "SERVER MANAJEMEN_2\\Susunan quick menu_kecil.gif"
+IDR_GIF281              GIF     DISCARDABLE     "ATUR PC_2\\Berhasil BlokSitus ditandai_besar.gif"
+IDR_GIF282              GIF     DISCARDABLE     "ATUR PC_2\\Berhasil BlokSitus ditandai_kecil.gif"
+IDR_GIF283              GIF     DISCARDABLE     "ATUR PC_2\\BlokSitus bisa install kalau_besar.gif"
+IDR_GIF284              GIF     DISCARDABLE     "ATUR PC_2\\BlokSitus bisa install kalau_kecil.gif"
+IDR_GIF285              GIF     DISCARDABLE     "ATUR PC_2\\DeepFreeze yang bisa dikontrol _besar.gif"
+IDR_GIF286              GIF     DISCARDABLE     "ATUR PC_2\\DeepFreeze yang bisa dikontrol _kecil.gif"
+IDR_GIF287              GIF     DISCARDABLE     "ATUR PC_2\\Password DeepFreeze harus_besar.gif"
+IDR_GIF288              GIF     DISCARDABLE     "ATUR PC_2\\Password DeepFreeze harus_kecil.gif"
+IDR_GIF289              GIF     DISCARDABLE     "ATUR PC_2\\Penulisan URL website_besar.gif"
+IDR_GIF290              GIF     DISCARDABLE     "ATUR PC_2\\Penulisan URL website_kecil.gif"
+IDR_GIF291              GIF     DISCARDABLE     "ATUR PC_2\\pikaBlockPackage_besar.gif"
+IDR_GIF292              GIF     DISCARDABLE     "ATUR PC_2\\pikaBlockPackage_kecil.gif"
+IDR_GIF293              GIF     DISCARDABLE     "ATUR PC_2\\PIKABlokPackage untuk_besar.gif"
+IDR_GIF294              GIF     DISCARDABLE     "ATUR PC_2\\PIKABlokPackage untuk_kecil.gif"
+IDR_GIF295              GIF     DISCARDABLE     "ATUR PC_2\\Tombol BlokSitus notepad_besar.gif"
+IDR_GIF296              GIF     DISCARDABLE     "ATUR PC_2\\Tombol BlokSitus notepad_Kecil.gif"
+IDR_GIF297              GIF     DISCARDABLE     "ATUR PC_2\\Tombol Normal Mode Shadow_besar.gif"
+IDR_GIF298              GIF     DISCARDABLE     "ATUR PC_2\\Tombol Normal Mode Shadow_kecil.gif"
+IDR_GIF299              GIF     DISCARDABLE     "ATUR PC_2\\Window Install Blok Situs_besar.gif"
+IDR_GIF300              GIF     DISCARDABLE     "ATUR PC_2\\Window Install Blok Situs_kecil.gif"
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// HINT
+//
+
+IDR_HINT1               HINT    DISCARDABLE     "client-hint\\admin pass_hint.gif"
+IDR_HINT2               HINT    DISCARDABLE     "client-hint\\block drive_hint.gif"
+IDR_HINT3               HINT    DISCARDABLE     "client-hint\\blok program_hint.gif"
+IDR_HINT4               HINT    DISCARDABLE     "client-hint\\detail biaya_hint.gif"
+IDR_HINT5               HINT    DISCARDABLE     "client-hint\\Hardware_hint.gif"
+IDR_HINT6               HINT    DISCARDABLE     "client-hint\\jalankan program_hint.gif"
+IDR_HINT7               HINT    DISCARDABLE     "client-hint\\kategori_hint.gif"
+IDR_HINT8               HINT    DISCARDABLE     "client-hint\\logout_hint.gif"
+IDR_HINT9               HINT    DISCARDABLE     "client-hint\\minimize_hint.gif"
+IDR_HINT10              HINT    DISCARDABLE     "client-hint\\mulai gratis_hint.gif"
+IDR_HINT11              HINT    DISCARDABLE     "client-hint\\option client_hint.gif"
+IDR_HINT12              HINT    DISCARDABLE     "client-hint\\pause_hint.gif"
+IDR_HINT13              HINT    DISCARDABLE     "client-hint\\pilih client_hint.gif"
+IDR_HINT14              HINT    DISCARDABLE     "client-hint\\pindah pc_hint.gif"
+IDR_HINT15              HINT    DISCARDABLE     "client-hint\\resolusi_hint.gif"
+IDR_HINT16              HINT    DISCARDABLE     "client-hint\\security_hint.gif"
+IDR_HINT17              HINT    DISCARDABLE     "client-hint\\set IP_hint.gif"
+IDR_HINT18              HINT    DISCARDABLE     "client-hint\\set wallpaper_hint.gif"
+IDR_HINT19              HINT    DISCARDABLE     "client-hint\\software_hint.gif"
+IDR_HINT20              HINT    DISCARDABLE     "client-hint\\tampilan tabel_hint.gif"
+IDR_HINT21              HINT    DISCARDABLE     "ATUR PC-hint\\Hint1.gif"
+IDR_HINT22              HINT    DISCARDABLE     "ATUR PC-hint\\hint2.gif"
+IDR_HINT23              HINT    DISCARDABLE     "ATUR PC-hint\\hint3.gif"
+IDR_HINT24              HINT    DISCARDABLE     "ATUR PC-hint\\hint4.gif"
+IDR_HINT25              HINT    DISCARDABLE     "ATUR PC-hint\\hint5.gif"
+IDR_HINT26              HINT    DISCARDABLE     "ATUR PC-hint\\hint6.gif"
+IDR_HINT27              HINT    DISCARDABLE     "ATUR PC-hint\\hint7.gif"
+IDR_HINT28              HINT    DISCARDABLE     "ATUR PC-hint\\hint8.gif"
+IDR_HINT29              HINT    DISCARDABLE     "ATUR PC-hint\\hint9.gif"
+IDR_HINT30              HINT    DISCARDABLE     "ATUR PC-hint\\hint10.gif"
+IDR_HINT31              HINT    DISCARDABLE     "ATUR PC-hint\\hint11.gif"
+IDR_HINT32              HINT    DISCARDABLE     "ATUR PC-hint\\hint12.gif"
+IDR_HINT33              HINT    DISCARDABLE     "ATUR PC-hint\\hint13.gif"
+IDR_HINT34              HINT    DISCARDABLE     "ATUR PC-hint\\hint14.gif"
+IDR_HINT35              HINT    DISCARDABLE     "ATUR PC-hint\\hint15.gif"
+IDR_HINT36              HINT    DISCARDABLE     "ATUR PC-hint\\hint16.gif"
+IDR_HINT37              HINT    DISCARDABLE     "ATUR PC-hint\\Hint17.gif"
+IDR_HINT38              HINT    DISCARDABLE     "ATUR PC-hint\\Hint18.gif"
+IDR_HINT39              HINT    DISCARDABLE     "ATUR PC-hint\\hint19.gif"
+IDR_HINT40              HINT    DISCARDABLE     "ATUR PC-hint\\hint20.gif"
+IDR_HINT42              HINT    DISCARDABLE     "HARGA-hint\\Block gunakan postpay_hint.gif"
+IDR_HINT43              HINT    DISCARDABLE     "HARGA-hint\\block login postpay di client_hint.gif"
+IDR_HINT44              HINT    DISCARDABLE     "HARGA-hint\\Bonus Waktu_hint.gif"
+IDR_HINT45              HINT    DISCARDABLE     "HARGA-hint\\Fungsi Login paket di client_hint.gif"
+IDR_HINT46              HINT    DISCARDABLE     "HARGA-hint\\Funsi Paket Shortcut_hint.gif"
+IDR_HINT47              HINT    DISCARDABLE     "HARGA-hint\\Hasil selesai otomatis di tab belum bayar_hint.gif"
+IDR_HINT48              HINT    DISCARDABLE     "HARGA-hint\\Jumlah Diskon_hint.gif"
+IDR_HINT49              HINT    DISCARDABLE     "HARGA-hint\\Letak diseble postpay_hint.gif"
+IDR_HINT50              HINT    DISCARDABLE     "HARGA-hint\\Letak Log Kode_hint.gif"
+IDR_HINT51              HINT    DISCARDABLE     "HARGA-hint\\Letak seting postpay dari client_hint.gif"
+IDR_HINT52              HINT    DISCARDABLE     "HARGA-hint\\Membuat Kode Vocher_hint.gif"
+IDR_HINT53              HINT    DISCARDABLE     "HARGA-hint\\Saat paket habis menjadi selesai_hint.gif"
+IDR_HINT54              HINT    DISCARDABLE     "HARGA-hint\\Seting Harga Kode Paket_hint.gif"
+IDR_HINT55              HINT    DISCARDABLE     "HARGA-hint\\Seting Harga siang dan malam_hint.gif"
+IDR_HINT56              HINT    DISCARDABLE     "HARGA-hint\\Seting Paket Durasi_hint.gif"
+IDR_HINT57              HINT    DISCARDABLE     "HARGA-hint\\Seting Paket Event_hint.gif"
+IDR_HINT58              HINT    DISCARDABLE     "HARGA-hint\\Seting Paket Jam_hint.gif"
+IDR_HINT59              HINT    DISCARDABLE     "HARGA-hint\\Seting Paket Member_hint.gif"
+IDR_HINT60              HINT    DISCARDABLE     "HARGA-hint\\Shortcut Paket_hint.gif"
+IDR_HINT61              HINT    DISCARDABLE     "HARGA-hint\\setpostpay_hint.gif"
+IDR_HINT41              HINT    DISCARDABLE     "MANAJEMEN WARNET-hint\\Admin Log Hint.gif"
+IDR_HINT62              HINT    DISCARDABLE     "MANAJEMEN WARNET-hint\\Cari user & View message_besar Hint.gif"
+IDR_HINT63              HINT    DISCARDABLE     "MANAJEMEN WARNET-hint\\Custom display Hint.gif"
+IDR_HINT64              HINT    DISCARDABLE     "MANAJEMEN WARNET-hint\\Daftar member Hint.gif"
+IDR_HINT65              HINT    DISCARDABLE     "MANAJEMEN WARNET-hint\\Daftar penjualan Hint.gif"
+IDR_HINT66              HINT    DISCARDABLE     "MANAJEMEN WARNET-hint\\Detail member Hint.gif"
+IDR_HINT67              HINT    DISCARDABLE     "MANAJEMEN WARNET-hint\\Fungsi refund Hint.gif"
+IDR_HINT68              HINT    DISCARDABLE     "MANAJEMEN WARNET-hint\\Hide sidebar Hint.gif"
+IDR_HINT69              HINT    DISCARDABLE     "MANAJEMEN WARNET-hint\\Input produk Hint.gif"
+IDR_HINT70              HINT    DISCARDABLE     "MANAJEMEN WARNET-hint\\Kas Hint.gif"
+IDR_HINT71              HINT    DISCARDABLE     "MANAJEMEN WARNET-hint\\Manajemen CD Hint.gif"
+IDR_HINT72              HINT    DISCARDABLE     "MANAJEMEN WARNET-hint\\Manajemen hutang Hint.gif"
+IDR_HINT73              HINT    DISCARDABLE     "MANAJEMEN WARNET-hint\\Member Hint.gif"
+IDR_HINT74              HINT    DISCARDABLE     "MANAJEMEN WARNET-hint\\nama member Hint.gif"
+IDR_HINT75              HINT    DISCARDABLE     "MANAJEMEN WARNET-hint\\Prepay member Hint.gif"
+IDR_HINT76              HINT    DISCARDABLE     "MANAJEMEN WARNET-hint\\Produk batal Hint.gif"
+IDR_HINT77              HINT    DISCARDABLE     "MANAJEMEN WARNET-hint\\skin Hint.gif"
+IDR_HINT78              HINT    DISCARDABLE     "MANAJEMEN WARNET-hint\\Skin Warna Hint.gif"
+IDR_HINT79              HINT    DISCARDABLE     "MANAJEMEN WARNET-hint\\Transfer terima Hint.gif"
+IDR_HINT80              HINT    DISCARDABLE     "MANAJEMEN WARNET-hint\\Tutup buku dan melihat laporan Hint.gif"
+IDR_HINT81              HINT    DISCARDABLE     "SERVER MANAJEMEN-hint\\Hint1.gif"
+IDR_HINT82              HINT    DISCARDABLE     "SERVER MANAJEMEN-hint\\Hint2.gif"
+IDR_HINT83              HINT    DISCARDABLE     "SERVER MANAJEMEN-hint\\Hint3.gif"
+IDR_HINT84              HINT    DISCARDABLE     "SERVER MANAJEMEN-hint\\Hint4.gif"
+IDR_HINT85              HINT    DISCARDABLE     "SERVER MANAJEMEN-hint\\Hint5.gif"
+IDR_HINT86              HINT    DISCARDABLE     "SERVER MANAJEMEN-hint\\Hint6.gif"
+IDR_HINT87              HINT    DISCARDABLE     "SERVER MANAJEMEN-hint\\Hint7.gif"
+IDR_HINT88              HINT    DISCARDABLE     "SERVER MANAJEMEN-hint\\Hint8.gif"
+IDR_HINT89              HINT    DISCARDABLE     "SERVER MANAJEMEN-hint\\Hint9.gif"
+IDR_HINT90              HINT    DISCARDABLE     "SERVER MANAJEMEN-hint\\Hint10.gif"
+IDR_HINT91              HINT    DISCARDABLE     "SERVER MANAJEMEN-hint\\Hint11.gif"
+IDR_HINT92              HINT    DISCARDABLE     "SERVER MANAJEMEN-hint\\Hint12.gif"
+IDR_HINT93              HINT    DISCARDABLE     "SERVER MANAJEMEN-hint\\Hint13.gif"
+IDR_HINT94              HINT    DISCARDABLE     "SERVER MANAJEMEN-hint\\Hint14.gif"
+IDR_HINT95              HINT    DISCARDABLE     "SERVER MANAJEMEN-hint\\Hint15.gif"
+IDR_HINT96              HINT    DISCARDABLE     "SERVER MANAJEMEN-hint\\Hint16.gif"
+IDR_HINT97              HINT    DISCARDABLE     "SERVER MANAJEMEN-hint\\Hint17.gif"
+IDR_HINT98              HINT    DISCARDABLE     "SERVER MANAJEMEN-hint\\Hint18.gif"
+IDR_HINT99              HINT    DISCARDABLE     "SERVER MANAJEMEN-hint\\Hint19.gif"
+IDR_HINT100             HINT    DISCARDABLE     "SERVER MANAJEMEN-hint\\Hint20.gif"
+IDR_HINT101             HINT    DISCARDABLE     "MANAJEMEN WARNET_2-hint\\Hint Buku kas.gif"
+IDR_HINT102             HINT    DISCARDABLE     "MANAJEMEN WARNET_2-hint\\Hint Button produk.gif"
+IDR_HINT103             HINT    DISCARDABLE     "MANAJEMEN WARNET_2-hint\\Hint Button repay.gif"
+IDR_HINT104             HINT    DISCARDABLE     "MANAJEMEN WARNET_2-hint\\Hint Ctk lap singkat_kecil.gif"
+IDR_HINT105             HINT    DISCARDABLE     "MANAJEMEN WARNET_2-hint\\Hint Detail member.gif"
+IDR_HINT106             HINT    DISCARDABLE     "MANAJEMEN WARNET_2-hint\\Hint grafik member.gif"
+IDR_HINT107             HINT    DISCARDABLE     "MANAJEMEN WARNET_2-hint\\Hint Informasi penjualan.gif"
+IDR_HINT108             HINT    DISCARDABLE     "MANAJEMEN WARNET_2-hint\\Hint Log member.gif"
+IDR_HINT109             HINT    DISCARDABLE     "MANAJEMEN WARNET_2-hint\\Hint Manajemen warnet.gif"
+IDR_HINT110             HINT    DISCARDABLE     "MANAJEMEN WARNET_2-hint\\Hint Tambah antrian.gif"
+IDR_HINT111             HINT    DISCARDABLE     "client_2-hint\\blok daftar_hint.gif"
+IDR_HINT112             HINT    DISCARDABLE     "client_2-hint\\client status_hint.gif"
+IDR_HINT113             HINT    DISCARDABLE     "client_2-hint\\fungsi client_hint.gif"
+IDR_HINT114             HINT    DISCARDABLE     "client_2-hint\\halaman admin_hint.gif"
+IDR_HINT115             HINT    DISCARDABLE     "client_2-hint\\kolom pc_hint.gif"
+IDR_HINT116             HINT    DISCARDABLE     "client_2-hint\\menu konfigurasi_hint.gif"
+IDR_HINT117             HINT    DISCARDABLE     "client_2-hint\\remote_hint.gif"
+IDR_HINT118             HINT    DISCARDABLE     "client_2-hint\\table size_hint.gif"
+IDR_HINT119             HINT    DISCARDABLE     "client_2-hint\\tampilan table_hint.gif"
+IDR_HINT120             HINT    DISCARDABLE     "client_2-hint\\total_hint.gif"
+IDR_HINT121             HINT    DISCARDABLE     "HARGA_2-hint\\Gratis minimum hint.gif"
+IDR_HINT122             HINT    DISCARDABLE     "HARGA_2-hint\\Kelipatan harga3000 hint.gif"
+IDR_HINT123             HINT    DISCARDABLE     "HARGA_2-hint\\Kelipatan harga Hint.gif"
+IDR_HINT124             HINT    DISCARDABLE     "HARGA_2-hint\\Kode paket hint.gif"
+IDR_HINT125             HINT    DISCARDABLE     "HARGA_2-hint\\Login bebas hint.gif"
+IDR_HINT126             HINT    DISCARDABLE     "HARGA_2-hint\\Paket event hint.gif"
+IDR_HINT127             HINT    DISCARDABLE     "HARGA_2-hint\\Paket event tanda hint.gif"
+IDR_HINT128             HINT    DISCARDABLE     "HARGA_2-hint\\Paket spesial hint.gif"
+IDR_HINT129             HINT    DISCARDABLE     "HARGA_2-hint\\Tampilan login bebas hint.gif"
+IDR_HINT130             HINT    DISCARDABLE     "HARGA_2-hint\\Tarif per unit hint.gif"
+IDR_HINT131             HINT    DISCARDABLE     "SERVER MANAJEMEN_2-hint\\Authorityadminboleh_hint.gif"
+IDR_HINT132             HINT    DISCARDABLE     "SERVER MANAJEMEN_2-hint\\Authorityadminmenu_hint.gif"
+IDR_HINT133             HINT    DISCARDABLE     "SERVER MANAJEMEN_2-hint\\Blok member hutang_hint.gif"
+IDR_HINT134             HINT    DISCARDABLE     "SERVER MANAJEMEN_2-hint\\Cetaknota_hint.gif"
+IDR_HINT135             HINT    DISCARDABLE     "SERVER MANAJEMEN_2-hint\\DB Backup_hint.gif"
+IDR_HINT136             HINT    DISCARDABLE     "SERVER MANAJEMEN_2-hint\\Managemen DB_hint.gif"
+IDR_HINT137             HINT    DISCARDABLE     "SERVER MANAJEMEN_2-hint\\Set Notice_hint.gif"
+IDR_HINT138             HINT    DISCARDABLE     "SERVER MANAJEMEN_2-hint\\set printer default_hint.gif"
+IDR_HINT139             HINT    DISCARDABLE     "SERVER MANAJEMEN_2-hint\\Set Sound_hint.gif"
+IDR_HINT140             HINT    DISCARDABLE     "SERVER MANAJEMEN_2-hint\\Susunan quick menu_hint.gif"
+IDR_HINT141             HINT    DISCARDABLE     "ATUR PC_2-hint\\hint_Berhasil BlokSitus ditandai.gif"
+IDR_HINT142             HINT    DISCARDABLE     "ATUR PC_2-hint\\hint_BlokSitus bisa install kalau.gif"
+IDR_HINT143             HINT    DISCARDABLE     "ATUR PC_2-hint\\hint_DeepFreeze yang bisa dikontrol.gif"
+IDR_HINT144             HINT    DISCARDABLE     "ATUR PC_2-hint\\Hint_Password DeepFreeze harus.gif"
+IDR_HINT145             HINT    DISCARDABLE     "ATUR PC_2-hint\\hint_Penulisan URL website.gif"
+IDR_HINT146             HINT    DISCARDABLE     "ATUR PC_2-hint\\hint_pikaBlockPackage.gif"
+IDR_HINT147             HINT    DISCARDABLE     "ATUR PC_2-hint\\hint_PIKABlokPackage untuk.gif"
+IDR_HINT148             HINT    DISCARDABLE     "ATUR PC_2-hint\\hint_Tombol BlokSitus notepad.gif"
+IDR_HINT149             HINT    DISCARDABLE     "ATUR PC_2-hint\\hint_Tombol Normal Mode Shadow.gif"
+IDR_HINT150             HINT    DISCARDABLE     "ATUR PC_2-hint\\hint_Window Install Blok Situs.gif"
+#endif    // Korean resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+/////////////////////////////////////////////////////////////////////////////
+// English (U.S.) resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_ENU)
+#ifdef _WIN32
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_US
+#pragma code_page(1252)
+#endif //_WIN32
+
+#ifndef _MAC
+/////////////////////////////////////////////////////////////////////////////
+//
+// Version
+//
+
+VS_VERSION_INFO VERSIONINFO
+ FILEVERSION 1,0,0,1
+ PRODUCTVERSION 1,0,0,1
+ FILEFLAGSMASK 0x3fL
+#ifdef _DEBUG
+ FILEFLAGS 0x1L
+#else
+ FILEFLAGS 0x0L
+#endif
+ FILEOS 0x40004L
+ FILETYPE 0x2L
+ FILESUBTYPE 0x0L
+BEGIN
+    BLOCK "StringFileInfo"
+    BEGIN
+        BLOCK "041204b0"
+        BEGIN
+            VALUE "Comments", "\0"
+            VALUE "CompanyName", "CJ\0"
+            VALUE "FileDescription", "pikabelajarRes\0"
+            VALUE "FileVersion", "1, 0, 0, 1\0"
+            VALUE "InternalName", "pikabelajarRes\0"
+            VALUE "LegalCopyright", "Copyright ¨Ï 2014\0"
+            VALUE "LegalTrademarks", "\0"
+            VALUE "OriginalFilename", "pikabelajarRes.dll\0"
+            VALUE "PrivateBuild", "\0"
+            VALUE "ProductName", "CJ pikabelajarRes\0"
+            VALUE "ProductVersion", "1, 0, 0, 1\0"
+            VALUE "SpecialBuild", "\0"
+        END
+    END
+    BLOCK "VarFileInfo"
+    BEGIN
+        VALUE "Translation", 0x412, 1200
+    END
+END
+
+#endif    // !_MAC
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// PNG
+//
+
+IDR_PNG_INTRO           PNG     DISCARDABLE     "intro.gif"
+IDR_PNG_DEFAULT         PNG     DISCARDABLE     "default.gif"
+IDR_PNG_INTRO2          PNG     DISCARDABLE     "intro2.gif"
+IDR_PNG_INTRO3          PNG     DISCARDABLE     "intro3.gif"
+#endif    // English (U.S.) resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+
+#ifndef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 3 resource.
+//
+
+
+/////////////////////////////////////////////////////////////////////////////
+#endif    // not APSTUDIO_INVOKED
+

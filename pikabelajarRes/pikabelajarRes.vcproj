@@ -1,0 +1,2128 @@
+<?xml version="1.0" encoding="ks_c_5601-1987"?>
+<VisualStudioProject
+	ProjectType="Visual C++"
+	Version="9.00"
+	Name="pikabelajarRes"
+	ProjectGUID="{27CA83A1-9FB1-44E8-99C1-8943E9139A10}"
+	TargetFrameworkVersion="0"
+	>
+	<Platforms>
+		<Platform
+			Name="Win32"
+		/>
+	</Platforms>
+	<ToolFiles>
+	</ToolFiles>
+	<Configurations>
+		<Configuration
+			Name="Release|Win32"
+			OutputDirectory=".\Release"
+			IntermediateDirectory=".\Release"
+			ConfigurationType="2"
+			InheritedPropertySheets="$(VCInstallDir)VCProjectDefaults\UpgradeFromVC60.vsprops"
+			UseOfMFC="0"
+			ATLMinimizesCRunTimeLibraryUsage="false"
+			CharacterSet="2"
+			>
+			<Tool
+				Name="VCPreBuildEventTool"
+			/>
+			<Tool
+				Name="VCCustomBuildTool"
+			/>
+			<Tool
+				Name="VCXMLDataGeneratorTool"
+			/>
+			<Tool
+				Name="VCWebServiceProxyGeneratorTool"
+			/>
+			<Tool
+				Name="VCMIDLTool"
+				PreprocessorDefinitions="NDEBUG"
+				MkTypLibCompatible="true"
+				SuppressStartupBanner="true"
+				TargetEnvironment="1"
+				TypeLibraryName=".\Release/pikabelajarRes.tlb"
+				HeaderFileName=""
+			/>
+			<Tool
+				Name="VCCLCompilerTool"
+				Optimization="2"
+				InlineFunctionExpansion="1"
+				PreprocessorDefinitions="WIN32;NDEBUG;_WINDOWS;_USRDLL;PIKABELAJARRES_EXPORTS"
+				StringPooling="true"
+				RuntimeLibrary="0"
+				EnableFunctionLevelLinking="true"
+				PrecompiledHeaderFile=".\Release/pikabelajarRes.pch"
+				AssemblerListingLocation=".\Release/"
+				ObjectFile=".\Release/"
+				ProgramDataBaseFileName=".\Release/"
+				WarningLevel="3"
+				SuppressStartupBanner="true"
+			/>
+			<Tool
+				Name="VCManagedResourceCompilerTool"
+			/>
+			<Tool
+				Name="VCResourceCompilerTool"
+				PreprocessorDefinitions="NDEBUG"
+				Culture="1042"
+			/>
+			<Tool
+				Name="VCPreLinkEventTool"
+			/>
+			<Tool
+				Name="VCLinkerTool"
+				OutputFile=".\Release/pikabelajarRes.dll"
+				LinkIncremental="1"
+				SuppressStartupBanner="true"
+				ProgramDatabaseFile=".\Release/pikabelajarRes.pdb"
+				RandomizedBaseAddress="1"
+				DataExecutionPrevention="0"
+				ImportLibrary=".\Release/pikabelajarRes.lib"
+				TargetMachine="1"
+			/>
+			<Tool
+				Name="VCALinkTool"
+			/>
+			<Tool
+				Name="VCManifestTool"
+			/>
+			<Tool
+				Name="VCXDCMakeTool"
+			/>
+			<Tool
+				Name="VCBscMakeTool"
+				SuppressStartupBanner="true"
+				OutputFile=".\Release/pikabelajarRes.bsc"
+			/>
+			<Tool
+				Name="VCFxCopTool"
+			/>
+			<Tool
+				Name="VCAppVerifierTool"
+			/>
+			<Tool
+				Name="VCPostBuildEventTool"
+			/>
+		</Configuration>
+		<Configuration
+			Name="Debug|Win32"
+			OutputDirectory=".\Debug"
+			IntermediateDirectory=".\Debug"
+			ConfigurationType="2"
+			InheritedPropertySheets="$(VCInstallDir)VCProjectDefaults\UpgradeFromVC60.vsprops"
+			UseOfMFC="0"
+			ATLMinimizesCRunTimeLibraryUsage="false"
+			CharacterSet="2"
+			>
+			<Tool
+				Name="VCPreBuildEventTool"
+			/>
+			<Tool
+				Name="VCCustomBuildTool"
+			/>
+			<Tool
+				Name="VCXMLDataGeneratorTool"
+			/>
+			<Tool
+				Name="VCWebServiceProxyGeneratorTool"
+			/>
+			<Tool
+				Name="VCMIDLTool"
+				PreprocessorDefinitions="_DEBUG"
+				MkTypLibCompatible="true"
+				SuppressStartupBanner="true"
+				TargetEnvironment="1"
+				TypeLibraryName=".\Debug/pikabelajarRes.tlb"
+				HeaderFileName=""
+			/>
+			<Tool
+				Name="VCCLCompilerTool"
+				Optimization="0"
+				PreprocessorDefinitions="WIN32;_DEBUG;_WINDOWS;_USRDLL;PIKABELAJARRES_EXPORTS"
+				MinimalRebuild="true"
+				BasicRuntimeChecks="3"
+				RuntimeLibrary="1"
+				PrecompiledHeaderFile=".\Debug/pikabelajarRes.pch"
+				AssemblerListingLocation=".\Debug/"
+				ObjectFile=".\Debug/"
+				ProgramDataBaseFileName=".\Debug/"
+				WarningLevel="3"
+				SuppressStartupBanner="true"
+				DebugInformationFormat="4"
+			/>
+			<Tool
+				Name="VCManagedResourceCompilerTool"
+			/>
+			<Tool
+				Name="VCResourceCompilerTool"
+				PreprocessorDefinitions="_DEBUG"
+				Culture="1042"
+			/>
+			<Tool
+				Name="VCPreLinkEventTool"
+			/>
+			<Tool
+				Name="VCLinkerTool"
+				OutputFile=".\Debug/pikabelajarRes.dll"
+				LinkIncremental="2"
+				SuppressStartupBanner="true"
+				GenerateDebugInformation="true"
+				ProgramDatabaseFile=".\Debug/pikabelajarRes.pdb"
+				RandomizedBaseAddress="1"
+				DataExecutionPrevention="0"
+				ImportLibrary=".\Debug/pikabelajarRes.lib"
+				TargetMachine="1"
+			/>
+			<Tool
+				Name="VCALinkTool"
+			/>
+			<Tool
+				Name="VCManifestTool"
+			/>
+			<Tool
+				Name="VCXDCMakeTool"
+			/>
+			<Tool
+				Name="VCBscMakeTool"
+				SuppressStartupBanner="true"
+				OutputFile=".\Debug/pikabelajarRes.bsc"
+			/>
+			<Tool
+				Name="VCFxCopTool"
+			/>
+			<Tool
+				Name="VCAppVerifierTool"
+			/>
+			<Tool
+				Name="VCPostBuildEventTool"
+			/>
+		</Configuration>
+	</Configurations>
+	<References>
+	</References>
+	<Files>
+		<Filter
+			Name="Source Files"
+			Filter="cpp;c;cxx;rc;def;r;odl;idl;hpj;bat"
+			>
+			<File
+				RelativePath="pikabelajarRes.cpp"
+				>
+				<FileConfiguration
+					Name="Release|Win32"
+					>
+					<Tool
+						Name="VCCLCompilerTool"
+						PreprocessorDefinitions=""
+					/>
+				</FileConfiguration>
+				<FileConfiguration
+					Name="Debug|Win32"
+					>
+					<Tool
+						Name="VCCLCompilerTool"
+						PreprocessorDefinitions=""
+					/>
+				</FileConfiguration>
+			</File>
+			<File
+				RelativePath="pikabelajarRes.rc"
+				>
+				<FileConfiguration
+					Name="Release|Win32"
+					>
+					<Tool
+						Name="VCResourceCompilerTool"
+						PreprocessorDefinitions=""
+					/>
+				</FileConfiguration>
+				<FileConfiguration
+					Name="Debug|Win32"
+					>
+					<Tool
+						Name="VCResourceCompilerTool"
+						PreprocessorDefinitions=""
+					/>
+				</FileConfiguration>
+			</File>
+		</Filter>
+		<Filter
+			Name="Header Files"
+			Filter="h;hpp;hxx;hm;inl"
+			>
+			<File
+				RelativePath="defineres.h"
+				>
+			</File>
+			<File
+				RelativePath="resource.h"
+				>
+			</File>
+		</Filter>
+		<Filter
+			Name="Resource Files"
+			Filter="ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe"
+			>
+			<File
+				RelativePath="SERVER MANAJEMEN\12_besar.gif"
+				>
+			</File>
+			<File
+				RelativePath="SERVER MANAJEMEN\12_kecil.gif"
+				>
+			</File>
+			<File
+				RelativePath="SERVER MANAJEMEN\13_besar.gif"
+				>
+			</File>
+			<File
+				RelativePath="SERVER MANAJEMEN\13_kecil.gif"
+				>
+			</File>
+			<File
+				RelativePath="SERVER MANAJEMEN\14_besar.gif"
+				>
+			</File>
+			<File
+				RelativePath="SERVER MANAJEMEN\14_kecil.gif"
+				>
+			</File>
+			<File
+				RelativePath="SERVER MANAJEMEN\15_besar.gif"
+				>
+			</File>
+			<File
+				RelativePath="SERVER MANAJEMEN\15_kecil.gif"
+				>
+			</File>
+			<File
+				RelativePath="SERVER MANAJEMEN\16_besar.gif"
+				>
+			</File>
+			<File
+				RelativePath="SERVER MANAJEMEN\16_kecil.gif"
+				>
+			</File>
+			<File
+				RelativePath="SERVER MANAJEMEN\17_besar.gif"
+				>
+			</File>
+			<File
+				RelativePath="SERVER MANAJEMEN\17_kecil.gif"
+				>
+			</File>
+			<File
+				RelativePath="SERVER MANAJEMEN\18_besar.gif"
+				>
+			</File>
+			<File
+				RelativePath="SERVER MANAJEMEN\18_kecil.gif"
+				>
+			</File>
+			<File
+				RelativePath="SERVER MANAJEMEN\19_besar.gif"
+				>
+			</File>
+			<File
+				RelativePath="SERVER MANAJEMEN\19_kecil.gif"
+				>
+			</File>
+			<File
+				RelativePath="HARGA-hint\1_kecil.gif"
+				>
+			</File>
+			<File
+				RelativePath="SERVER MANAJEMEN\20_besar.gif"
+				>
+			</File>
+			<File
+				RelativePath="SERVER MANAJEMEN\20_kecil.gif"
+				>
+			</File>
+			<File
+				RelativePath="MANAJEMEN WARNET-hint\Admin Log Hint.gif"
+				>
+			</File>
+			<File
+				RelativePath="MANAJEMEN WARNET\Admin Log_besar.gif"
+				>
+			</File>
+			<File
+				RelativePath="MANAJEMEN WARNET\Admin Log_kecil.gif"
+				>
+			</File>
+			<File
+				RelativePath="admin pass1.gif"
+				>
+			</File>
+			<File
+				RelativePath="admin pass2.gif"
+				>
+			</File>
+			<File
+				RelativePath="client\admin pass_besar.gif"
+				>
+			</File>
+			<File
+				RelativePath="client-hint\admin pass_hint.gif"
+				>
+			</File>
+			<File
+				RelativePath="client\admin pass_kecil.gif"
+				>
+			</File>
+			<File
+				RelativePath="ATUR PC\aturPc10_besar.gif"
+				>
+			</File>
+			<File
+				RelativePath="ATUR PC\aturPc10_kecil.gif"
+				>
+			</File>
+			<File
+				RelativePath="ATUR PC\aturPc11_besar.gif"
+				>
+			</File>
+			<File
+				RelativePath="ATUR PC\aturPc11_kecil.gif"
+				>
+			</File>
+			<File
+				RelativePath="ATUR PC\aturPc12_besar.gif"
+				>
+			</File>
+			<File
+				RelativePath="ATUR PC\aturPc12_Kecil.gif"
+				>
+			</File>
+			<File
+				RelativePath="ATUR PC\aturPc13_besar.gif"
+				>
+			</File>
+			<File
+				RelativePath="ATUR PC\aturPc13_Kecil.gif"
+				>
+			</File>
+			<File
+				RelativePath="ATUR PC\aturPc14_besar.gif"
+				>
+			</File>
+			<File
+				RelativePath="ATUR PC\aturPc14_kecil.gif"
+				>
+			</File>
+			<File
+				RelativePath="ATUR PC\aturPc15_besar.gif"
+				>
+			</File>
+			<File
+				RelativePath="ATUR PC\aturPc15_Kecil.gif"
+				>
+			</File>
+			<File
+				RelativePath="ATUR PC\aturPc16_besar.gif"
+				>
+			</File>
+			<File
+				RelativePath="ATUR PC\aturPc16_kecil.gif"
+				>
+			</File>
+			<File
+				RelativePath="ATUR PC\aturPc17_besar.gif"
+				>
+			</File>
+			<File
+				RelativePath="ATUR PC\aturPc17_kecil.gif"
+				>
+			</File>
+			<File
+				RelativePath="ATUR PC\aturPc18_besar.gif"
+				>
+			</File>
+			<File
+				RelativePath="ATUR PC\aturPc18_kecil.gif"
+				>
+			</File>
+			<File
+				RelativePath="ATUR PC\aturPc19_besar.gif"
+				>
+			</File>
+			<File
+				RelativePath="ATUR PC\aturPc19_kecil.gif"
+				>
+			</File>
+			<File
+				RelativePath="ATUR PC\aturPc1_besar.gif"
+				>
+			</File>
+			<File
+				RelativePath="ATUR PC\aturPc1_kecil.gif"
+				>
+			</File>
+			<File
+				RelativePath="ATUR PC\aturPc20_besar.gif"
+				>
+			</File>
+			<File
+				RelativePath="ATUR PC\aturPc20_kecil.gif"
+				>
+			</File>
+			<File
+				RelativePath="ATUR PC\aturPc2_besar.gif"
+				>
+			</File>
+			<File
+				RelativePath="ATUR PC\aturPc2_Kecil.gif"
+				>
+			</File>
+			<File
+				RelativePath="ATUR PC\aturPc3_besar.gif"
+				>
+			</File>
+			<File
+				RelativePath="ATUR PC\aturPc3_kecil.gif"
+				>
+			</File>
+			<File
+				RelativePath="ATUR PC\aturPc4_besar.gif"
+				>
+			</File>
+			<File
+				RelativePath="ATUR PC\aturPc4_kecil.gif"
+				>
+			</File>
+			<File
+				RelativePath="ATUR PC\aturPc5_besar.gif"
+				>
+			</File>
+			<File
+				RelativePath="ATUR PC\aturPc5_kecil.gif"
+				>
+			</File>
+			<File
+				RelativePath="ATUR PC\aturPc6_besar.gif"
+				>
+			</File>
+			<File
+				RelativePath="ATUR PC\aturPc6_kecil.gif"
+				>
+			</File>
+			<File
+				RelativePath="ATUR PC\aturPc7_besar.gif"
+				>
+			</File>
+			<File
+				RelativePath="ATUR PC\aturPc7_kecil.gif"
+				>
+			</File>
+			<File
+				RelativePath="ATUR PC\aturPc8_besar.gif"
+				>
+			</File>
+			<File
+				RelativePath="ATUR PC\aturPc8_kecil.gif"
+				>
+			</File>
+			<File
+				RelativePath="ATUR PC\aturPc9_besar.gif"
+				>
+			</File>
+			<File
+				RelativePath="ATUR PC\aturPc9_kecil.gif"
+				>
+			</File>
+			<File
+				RelativePath="SERVER MANAJEMEN_2\Authorityadminboleh_besar.gif"
+				>
+			</File>
+			<File
+				RelativePath="SERVER MANAJEMEN_2-hint\Authorityadminboleh_hint.gif"
+				>
+			</File>
+			<File
+				RelativePath="SERVER MANAJEMEN_2\Authorityadminboleh_kecil.gif"
+				>
+			</File>
+			<File
+				RelativePath="SERVER MANAJEMEN_2\Authorityadminmenu_besar.gif"
+				>
+			</File>
+			<File
+				RelativePath="SERVER MANAJEMEN_2-hint\Authorityadminmenu_hint.gif"
+				>
+			</File>
+			<File
+				RelativePath="SERVER MANAJEMEN_2\Authorityadminmenu_kecil.gif"
+				>
+			</File>
+			<File
+				RelativePath="SERVER MANAJEMEN\Auto Lock Screen_besar.gif"
+				>
+			</File>
+			<File
+				RelativePath="SERVER MANAJEMEN\Auto Lock Screen_kecil.gif"
+				>
+			</File>
+			<File
+				RelativePath="SERVER MANAJEMEN\Auto Shutdown_besar.gif"
+				>
+			</File>
+			<File
+				RelativePath="SERVER MANAJEMEN\Auto Shutdown_kecil.gif"
+				>
+			</File>
+			<File
+				RelativePath="ATUR PC_2\Berhasil BlokSitus ditandai_besar.gif"
+				>
+			</File>
+			<File
+				RelativePath="ATUR PC_2\Berhasil BlokSitus ditandai_kecil.gif"
+				>
+			</File>
+			<File
+				RelativePath="SERVER MANAJEMEN\Blink tabel_besar.gif"
+				>
+			</File>
+			<File
+				RelativePath="SERVER MANAJEMEN\Blink tabel_kecil.gif"
+				>
+			</File>
+			<File
+				RelativePath="client-hint\block drive_hint.gif"
+				>
+			</File>
+			<File
+				RelativePath="HARGA\Block gunakan postpay_besar.gif"
+				>
+			</File>
+			<File
+				RelativePath="HARGA-hint\Block gunakan postpay_hint.gif"
+				>
+			</File>
+			<File
+				RelativePath="HARGA\Block gunakan postpay_kecil.gif"
+				>
+			</File>
+			<File
+				RelativePath="HARGA\block login postpay di client_besar.gif"
+				>
+			</File>
+			<File
+				RelativePath="HARGA-hint\block login postpay di client_hint.gif"
+				>
+			</File>
+			<File
+				RelativePath="HARGA\block login postpay di client_kecil.gif"
+				>
+			</File>
+			<File
+				RelativePath="client_2\blok daftar_besar.gif"
+				>
+			</File>
+			<File
+				RelativePath="client_2-hint\blok daftar_hint.gif"
+				>
+			</File>
+			<File
+				RelativePath="client_2\blok daftar_kecil.gif"
+				>
+			</File>
+			<File
+				RelativePath="blok drive1.gif"
+				>
+			</File>
+			<File
+				RelativePath="blok drive2.gif"
+				>
+			</File>
+			<File
+				RelativePath="client\blok drive_besar.gif"
+				>
+			</File>
+			<File
+				RelativePath="client\blok drive_kecil.gif"
+				>
+			</File>
+			<File
+				RelativePath="SERVER MANAJEMEN_2\Blok member hutang_besar.gif"
+				>
+			</File>
+			<File
+				RelativePath="SERVER MANAJEMEN_2-hint\Blok member hutang_hint.gif"
+				>
+			</File>
+			<File
+				RelativePath="SERVER MANAJEMEN_2\Blok member hutang_kecil.gif"
+				>
+			</File>
+			<File
+				RelativePath="blok program1.gif"
+				>
+			</File>
+			<File
+				RelativePath="blok program2.gif"
+				>
+			</File>
+			<File
+				RelativePath="client\blok program_besar.gif"
+				>
+			</File>
+			<File
+				RelativePath="client-hint\blok program_hint.gif"
+				>
+			</File>
+			<File
+				RelativePath="client\blok program_kecil.gif"
+				>
+			</File>
+			<File
+				RelativePath="ATUR PC_2\BlokSitus bisa install kalau_besar.gif"
+				>
+			</File>
+			<File
+				RelativePath="ATUR PC_2\BlokSitus bisa install kalau_kecil.gif"
+				>
+			</File>
+			<File
+				RelativePath="HARGA\Bonus Waktu_besar.gif"
+				>
+			</File>
+			<File
+				RelativePath="HARGA-hint\Bonus Waktu_hint.gif"
+				>
+			</File>
+			<File
+				RelativePath="HARGA\Bonus Waktu_kecil.gif"
+				>
+			</File>
+			<File
+				RelativePath="MANAJEMEN WARNET_2\Buku kas_besar.gif"
+				>
+			</File>
+			<File
+				RelativePath="MANAJEMEN WARNET_2\buku kas_kecil.gif"
+				>
+			</File>
+			<File
+				RelativePath="MANAJEMEN WARNET_2\Button repay_besar.gif"
+				>
+			</File>
+			<File
+				RelativePath="MANAJEMEN WARNET_2\Button repay_kecil.gif"
+				>
+			</File>
+			<File
+				RelativePath="MANAJEMEN WARNET_2\Button urut_besar.gif"
+				>
+			</File>
+			<File
+				RelativePath="MANAJEMEN WARNET_2\Button urut_kecil.gif"
+				>
+			</File>
+			<File
+				RelativePath="MANAJEMEN WARNET-hint\Cari user &amp; View message_besar Hint.gif"
+				>
+			</File>
+			<File
+				RelativePath="MANAJEMEN WARNET\Cari user &amp; View message_besar.gif"
+				>
+			</File>
+			<File
+				RelativePath="MANAJEMEN WARNET\Cari user &amp; View message_kecil.gif"
+				>
+			</File>
+			<File
+				RelativePath="SERVER MANAJEMEN_2\Cetaknota_besar.gif"
+				>
+			</File>
+			<File
+				RelativePath="SERVER MANAJEMEN_2-hint\Cetaknota_hint.gif"
+				>
+			</File>
+			<File
+				RelativePath="SERVER MANAJEMEN_2\Cetaknota_kecil.gif"
+				>
+			</File>
+			<File
+				RelativePath="client_2\client status_besar.gif"
+				>
+			</File>
+			<File
+				RelativePath="client_2-hint\client status_hint.gif"
+				>
+			</File>
+			<File
+				RelativePath="client_2\client status_kecil.gif"
+				>
+			</File>
+			<File
+				RelativePath="MANAJEMEN WARNET_2\Ctk lap singkat_besar.gif"
+				>
+			</File>
+			<File
+				RelativePath="MANAJEMEN WARNET_2\Ctk lap singkat_kecil.gif"
+				>
+			</File>
+			<File
+				RelativePath="MANAJEMEN WARNET-hint\Custom display Hint.gif"
+				>
+			</File>
+			<File
+				RelativePath="MANAJEMEN WARNET\Custom display_besar.gif"
+				>
+			</File>
+			<File
+				RelativePath="MANAJEMEN WARNET\Custom display_kecil.gif"
+				>
+			</File>
+			<File
+				RelativePath="MANAJEMEN WARNET-hint\Daftar member Hint.gif"
+				>
+			</File>
+			<File
+				RelativePath="MANAJEMEN WARNET\Daftar member_besar.gif"
+				>
+			</File>
+			<File
+				RelativePath="MANAJEMEN WARNET\Daftar member_kecil.gif"
+				>
+			</File>
+			<File
+				RelativePath="MANAJEMEN WARNET-hint\Daftar penjualan Hint.gif"
+				>
+			</File>
+			<File
+				RelativePath="MANAJEMEN WARNET\Daftar penjualan_besar.gif"
+				>
+			</File>
+			<File
+				RelativePath="MANAJEMEN WARNET\Daftar penjualan_kecil.gif"
+				>
+			</File>
+			<File
+				RelativePath="SERVER MANAJEMEN_2\DB Backup_besar.gif"
+				>
+			</File>
+			<File
+				RelativePath="SERVER MANAJEMEN_2-hint\DB Backup_hint.gif"
+				>
+			</File>
+			<File
+				RelativePath="SERVER MANAJEMEN_2\DB Backup_kecil.gif"
+				>
+			</File>
+			<File
+				RelativePath="ATUR PC_2\DeepFreeze yang bisa dikontrol _besar.gif"
+				>
+			</File>
+			<File
+				RelativePath="ATUR PC_2\DeepFreeze yang bisa dikontrol _kecil.gif"
+				>
+			</File>
+			<File
+				RelativePath="default.gif"
+				>
+			</File>
+			<File
+				RelativePath="client\detail biaya_besar.gif"
+				>
+			</File>
+			<File
+				RelativePath="client-hint\detail biaya_hint.gif"
+				>
+			</File>
+			<File
+				RelativePath="client\detail biaya_kecil.gif"
+				>
+			</File>
+			<File
+				RelativePath="MANAJEMEN WARNET-hint\Detail member Hint.gif"
+				>
+			</File>
+			<File
+				RelativePath="MANAJEMEN WARNET\Detail member_besar.gif"
+				>
+			</File>
+			<File
+				RelativePath="MANAJEMEN WARNET\Detail member_kecil.gif"
+				>
+			</File>
+			<File
+				RelativePath="MANAJEMEN WARNET_2\Detail transfer-terima_besar.gif"
+				>
+			</File>
+			<File
+				RelativePath="MANAJEMEN WARNET_2\Detail transfer-terima_kecil.gif"
+				>
+			</File>
+			<File
+				RelativePath="client_2-hint\fungsi client_hint.gif"
+				>
+			</File>
+			<File
+				RelativePath="HARGA\Fungsi Login paket di client_besar.gif"
+				>
+			</File>
+			<File
+				RelativePath="HARGA-hint\Fungsi Login paket di client_hint.gif"
+				>
+			</File>
+			<File
+				RelativePath="HARGA\Fungsi Login paket di client_kecil.gif"
+				>
+			</File>
+			<File
+				RelativePath="MANAJEMEN WARNET-hint\Fungsi refund Hint.gif"
+				>
+			</File>
+			<File
+				RelativePath="MANAJEMEN WARNET\Fungsi refund_besar.gif"
+				>
+			</File>
+			<File
+				RelativePath="MANAJEMEN WARNET\Fungsi refund_kecil.gif"
+				>
+			</File>
+			<File
+				RelativePath="client_2\fungsi_besar.gif"
+				>
+			</File>
+			<File
+				RelativePath="client_2\fungsi_kecil.gif"
+				>
+			</File>
+			<File
+				RelativePath="HARGA\Funsi Paket Shortcut_besar.gif"
+				>
+			</File>
+			<File
+				RelativePath="HARGA-hint\Funsi Paket Shortcut_hint.gif"
+				>
+			</File>
+			<File
+				RelativePath="HARGA\Funsi Paket Shortcut_kecil.gif"
+				>
+			</File>
+			<File
+				RelativePath="MANAJEMEN WARNET_2\Grafik member_besar.gif"
+				>
+			</File>
+			<File
+				RelativePath="MANAJEMEN WARNET_2\Grafik member_kecil.gif"
+				>
+			</File>
+			<File
+				RelativePath="HARGA_2-hint\Gratis minimum hint.gif"
+				>
+			</File>
+			<File
+				RelativePath="HARGA_2\Gratis minimum_besar.gif"
+				>
+			</File>
+			<File
+				RelativePath="HARGA_2\Gratis minimum_kecil.gif"
+				>
+			</File>
+			<File
+				RelativePath="client_2\halaman admin_besar.gif"
+				>
+			</File>
+			<File
+				RelativePath="client_2-hint\halaman admin_hint.gif"
+				>
+			</File>
+			<File
+				RelativePath="client_2\halaman admin_kecil.gif"
+				>
+			</File>
+			<File
+				RelativePath="client\Hardware_besar.gif"
+				>
+			</File>
+			<File
+				RelativePath="client-hint\Hardware_hint.gif"
+				>
+			</File>
+			<File
+				RelativePath="client\Hardware_kecil.gif"
+				>
+			</File>
+			<File
+				RelativePath="HARGA\Hasil selesai otomatis di tab belum bayar_besar.gif"
+				>
+			</File>
+			<File
+				RelativePath="HARGA-hint\Hasil selesai otomatis di tab belum bayar_hint.gif"
+				>
+			</File>
+			<File
+				RelativePath="HARGA\Hasil selesai otomatis di tab belum bayar_kecil.gif"
+				>
+			</File>
+			<File
+				RelativePath="MANAJEMEN WARNET-hint\Hide sidebar Hint.gif"
+				>
+			</File>
+			<File
+				RelativePath="MANAJEMEN WARNET\Hide sidebar_besar.gif"
+				>
+			</File>
+			<File
+				RelativePath="MANAJEMEN WARNET\Hide sidebar_kecil.gif"
+				>
+			</File>
+			<File
+				RelativePath="MANAJEMEN WARNET_2-hint\Hint Buku kas.gif"
+				>
+			</File>
+			<File
+				RelativePath="MANAJEMEN WARNET_2-hint\Hint Button produk.gif"
+				>
+			</File>
+			<File
+				RelativePath="MANAJEMEN WARNET_2-hint\Hint Button repay.gif"
+				>
+			</File>
+			<File
+				RelativePath="MANAJEMEN WARNET_2-hint\Hint Ctk lap singkat_kecil.gif"
+				>
+			</File>
+			<File
+				RelativePath="MANAJEMEN WARNET_2-hint\Hint Detail member.gif"
+				>
+			</File>
+			<File
+				RelativePath="MANAJEMEN WARNET_2-hint\Hint grafik member.gif"
+				>
+			</File>
+			<File
+				RelativePath="MANAJEMEN WARNET_2-hint\Hint Informasi penjualan.gif"
+				>
+			</File>
+			<File
+				RelativePath="MANAJEMEN WARNET_2-hint\Hint Log member.gif"
+				>
+			</File>
+			<File
+				RelativePath="MANAJEMEN WARNET_2-hint\Hint Manajemen warnet.gif"
+				>
+			</File>
+			<File
+				RelativePath="MANAJEMEN WARNET_2-hint\Hint Tambah antrian.gif"
+				>
+			</File>
+			<File
+				RelativePath="ATUR PC-hint\Hint1.gif"
+				>
+			</File>
+			<File
+				RelativePath="SERVER MANAJEMEN-hint\Hint1.gif"
+				>
+			</File>
+			<File
+				RelativePath="SERVER MANAJEMEN-hint\Hint10.gif"
+				>
+			</File>
+			<File
+				RelativePath="ATUR PC-hint\hint10.gif"
+				>
+			</File>
+			<File
+				RelativePath="SERVER MANAJEMEN-hint\Hint11.gif"
+				>
+			</File>
+			<File
+				RelativePath="ATUR PC-hint\hint11.gif"
+				>
+			</File>
+			<File
+				RelativePath="SERVER MANAJEMEN-hint\Hint12.gif"
+				>
+			</File>
+			<File
+				RelativePath="ATUR PC-hint\hint12.gif"
+				>
+			</File>
+			<File
+				RelativePath="ATUR PC-hint\hint13.gif"
+				>
+			</File>
+			<File
+				RelativePath="SERVER MANAJEMEN-hint\Hint13.gif"
+				>
+			</File>
+			<File
+				RelativePath="SERVER MANAJEMEN-hint\Hint14.gif"
+				>
+			</File>
+			<File
+				RelativePath="ATUR PC-hint\hint14.gif"
+				>
+			</File>
+			<File
+				RelativePath="SERVER MANAJEMEN-hint\Hint15.gif"
+				>
+			</File>
+			<File
+				RelativePath="ATUR PC-hint\hint15.gif"
+				>
+			</File>
+			<File
+				RelativePath="ATUR PC-hint\hint16.gif"
+				>
+			</File>
+			<File
+				RelativePath="SERVER MANAJEMEN-hint\Hint16.gif"
+				>
+			</File>
+			<File
+				RelativePath="SERVER MANAJEMEN-hint\Hint17.gif"
+				>
+			</File>
+			<File
+				RelativePath="ATUR PC-hint\Hint17.gif"
+				>
+			</File>
+			<File
+				RelativePath="SERVER MANAJEMEN-hint\Hint18.gif"
+				>
+			</File>
+			<File
+				RelativePath="ATUR PC-hint\Hint18.gif"
+				>
+			</File>
+			<File
+				RelativePath="SERVER MANAJEMEN-hint\Hint19.gif"
+				>
+			</File>
+			<File
+				RelativePath="ATUR PC-hint\hint19.gif"
+				>
+			</File>
+			<File
+				RelativePath="ATUR PC-hint\hint2.gif"
+				>
+			</File>
+			<File
+				RelativePath="SERVER MANAJEMEN-hint\Hint2.gif"
+				>
+			</File>
+			<File
+				RelativePath="SERVER MANAJEMEN-hint\Hint20.gif"
+				>
+			</File>
+			<File
+				RelativePath="ATUR PC-hint\hint20.gif"
+				>
+			</File>
+			<File
+				RelativePath="SERVER MANAJEMEN-hint\Hint3.gif"
+				>
+			</File>
+			<File
+				RelativePath="ATUR PC-hint\hint3.gif"
+				>
+			</File>
+			<File
+				RelativePath="SERVER MANAJEMEN-hint\Hint4.gif"
+				>
+			</File>
+			<File
+				RelativePath="ATUR PC-hint\hint4.gif"
+				>
+			</File>
+			<File
+				RelativePath="ATUR PC-hint\hint5.gif"
+				>
+			</File>
+			<File
+				RelativePath="SERVER MANAJEMEN-hint\Hint5.gif"
+				>
+			</File>
+			<File
+				RelativePath="SERVER MANAJEMEN-hint\Hint6.gif"
+				>
+			</File>
+			<File
+				RelativePath="ATUR PC-hint\hint6.gif"
+				>
+			</File>
+			<File
+				RelativePath="SERVER MANAJEMEN-hint\Hint7.gif"
+				>
+			</File>
+			<File
+				RelativePath="ATUR PC-hint\hint7.gif"
+				>
+			</File>
+			<File
+				RelativePath="SERVER MANAJEMEN-hint\Hint8.gif"
+				>
+			</File>
+			<File
+				RelativePath="ATUR PC-hint\hint8.gif"
+				>
+			</File>
+			<File
+				RelativePath="ATUR PC-hint\hint9.gif"
+				>
+			</File>
+			<File
+				RelativePath="SERVER MANAJEMEN-hint\Hint9.gif"
+				>
+			</File>
+			<File
+				RelativePath="ATUR PC_2-hint\hint_Berhasil BlokSitus ditandai.gif"
+				>
+			</File>
+			<File
+				RelativePath="ATUR PC_2-hint\hint_BlokSitus bisa install kalau.gif"
+				>
+			</File>
+			<File
+				RelativePath="ATUR PC_2-hint\hint_DeepFreeze yang bisa dikontrol.gif"
+				>
+			</File>
+			<File
+				RelativePath="ATUR PC_2-hint\Hint_Password DeepFreeze harus.gif"
+				>
+			</File>
+			<File
+				RelativePath="ATUR PC_2-hint\hint_Penulisan URL website.gif"
+				>
+			</File>
+			<File
+				RelativePath="ATUR PC_2-hint\hint_pikaBlockPackage.gif"
+				>
+			</File>
+			<File
+				RelativePath="ATUR PC_2-hint\hint_PIKABlokPackage untuk.gif"
+				>
+			</File>
+			<File
+				RelativePath="ATUR PC_2-hint\hint_Tombol BlokSitus notepad.gif"
+				>
+			</File>
+			<File
+				RelativePath="ATUR PC_2-hint\hint_Tombol Normal Mode Shadow.gif"
+				>
+			</File>
+			<File
+				RelativePath="ATUR PC_2-hint\hint_Window Install Blok Situs.gif"
+				>
+			</File>
+			<File
+				RelativePath="MANAJEMEN WARNET_2\Informasi penjualan_besar.gif"
+				>
+			</File>
+			<File
+				RelativePath="MANAJEMEN WARNET_2\Informasi penjualan_kecil.gif"
+				>
+			</File>
+			<File
+				RelativePath="MANAJEMEN WARNET-hint\Input produk Hint.gif"
+				>
+			</File>
+			<File
+				RelativePath="MANAJEMEN WARNET\Input produk_besar.gif"
+				>
+			</File>
+			<File
+				RelativePath="MANAJEMEN WARNET\Input produk_kecil.gif"
+				>
+			</File>
+			<File
+				RelativePath="intro.gif"
+				>
+			</File>
+			<File
+				RelativePath="intro2.gif"
+				>
+			</File>
+			<File
+				RelativePath="intro3.gif"
+				>
+			</File>
+			<File
+				RelativePath="client\jalankan program_besar.gif"
+				>
+			</File>
+			<File
+				RelativePath="client-hint\jalankan program_hint.gif"
+				>
+			</File>
+			<File
+				RelativePath="client\jalankan program_kecil.gif"
+				>
+			</File>
+			<File
+				RelativePath="HARGA\Jumlah Diskon_besar.gif"
+				>
+			</File>
+			<File
+				RelativePath="HARGA-hint\Jumlah Diskon_hint.gif"
+				>
+			</File>
+			<File
+				RelativePath="HARGA\Jumlah Diskon_kecil.gif"
+				>
+			</File>
+			<File
+				RelativePath="MANAJEMEN WARNET-hint\Kas Hint.gif"
+				>
+			</File>
+			<File
+				RelativePath="MANAJEMEN WARNET\kas_besar.gif"
+				>
+			</File>
+			<File
+				RelativePath="MANAJEMEN WARNET\kas_kecil.gif"
+				>
+			</File>
+			<File
+				RelativePath="client\kategori_besar.gif"
+				>
+			</File>
+			<File
+				RelativePath="client-hint\kategori_hint.gif"
+				>
+			</File>
+			<File
+				RelativePath="client\kategori_kecil.gif"
+				>
+			</File>
+			<File
+				RelativePath="HARGA_2-hint\Kelipatan harga Hint.gif"
+				>
+			</File>
+			<File
+				RelativePath="HARGA_2-hint\Kelipatan harga3000 hint.gif"
+				>
+			</File>
+			<File
+				RelativePath="HARGA_2\Kelipatan harga3000_besar.gif"
+				>
+			</File>
+			<File
+				RelativePath="HARGA_2\Kelipatan harga3000_kecil.gif"
+				>
+			</File>
+			<File
+				RelativePath="HARGA_2\Kelipatan harga_besar.gif"
+				>
+			</File>
+			<File
+				RelativePath="HARGA_2\Kelipatan harga_kecil.gif"
+				>
+			</File>
+			<File
+				RelativePath="HARGA_2-hint\Kode paket hint.gif"
+				>
+			</File>
+			<File
+				RelativePath="HARGA_2\Kode paket_besar.gif"
+				>
+			</File>
+			<File
+				RelativePath="HARGA_2\Kode paket_kecil.gif"
+				>
+			</File>
+			<File
+				RelativePath="client_2-hint\kolom pc_hint.gif"
+				>
+			</File>
+			<File
+				RelativePath="client_2\kolom_besar.gif"
+				>
+			</File>
+			<File
+				RelativePath="client_2\kolom_kecil.gif"
+				>
+			</File>
+			<File
+				RelativePath="HARGA\Letak diseble postpay_besar.gif"
+				>
+			</File>
+			<File
+				RelativePath="HARGA-hint\Letak diseble postpay_hint.gif"
+				>
+			</File>
+			<File
+				RelativePath="HARGA\Letak diseble postpay_kecil.gif"
+				>
+			</File>
+			<File
+				RelativePath="HARGA\Letak Log Kode_besar.gif"
+				>
+			</File>
+			<File
+				RelativePath="HARGA-hint\Letak Log Kode_hint.gif"
+				>
+			</File>
+			<File
+				RelativePath="HARGA\Letak Log Kode_kecil.gif"
+				>
+			</File>
+			<File
+				RelativePath="HARGA\Letak seting postpay dari client_besar.gif"
+				>
+			</File>
+			<File
+				RelativePath="HARGA-hint\Letak seting postpay dari client_hint.gif"
+				>
+			</File>
+			<File
+				RelativePath="HARGA\Letak seting postpay dari client_kecil.gif"
+				>
+			</File>
+			<File
+				RelativePath="MANAJEMEN WARNET_2\Log member_besar.gif"
+				>
+			</File>
+			<File
+				RelativePath="MANAJEMEN WARNET_2\Log member_kecil.gif"
+				>
+			</File>
+			<File
+				RelativePath="HARGA_2-hint\Login bebas hint.gif"
+				>
+			</File>
+			<File
+				RelativePath="HARGA_2\Login bebas_besar.gif"
+				>
+			</File>
+			<File
+				RelativePath="HARGA_2\Login bebas_kecil.gif"
+				>
+			</File>
+			<File
+				RelativePath="client\logout_besar.gif"
+				>
+			</File>
+			<File
+				RelativePath="client-hint\logout_hint.gif"
+				>
+			</File>
+			<File
+				RelativePath="client\logout_kecil.gif"
+				>
+			</File>
+			<File
+				RelativePath="SERVER MANAJEMEN_2\Managemen DB_besar.gif"
+				>
+			</File>
+			<File
+				RelativePath="SERVER MANAJEMEN_2-hint\Managemen DB_hint.gif"
+				>
+			</File>
+			<File
+				RelativePath="SERVER MANAJEMEN_2\Managemen DB_kecil.gif"
+				>
+			</File>
+			<File
+				RelativePath="MANAJEMEN WARNET-hint\Manajemen CD Hint.gif"
+				>
+			</File>
+			<File
+				RelativePath="MANAJEMEN WARNET\Manajemen CD_besar.gif"
+				>
+			</File>
+			<File
+				RelativePath="MANAJEMEN WARNET\Manajemen CD_kecil.gif"
+				>
+			</File>
+			<File
+				RelativePath="MANAJEMEN WARNET-hint\Manajemen hutang Hint.gif"
+				>
+			</File>
+			<File
+				RelativePath="MANAJEMEN WARNET\Manajemen hutang_besar.gif"
+				>
+			</File>
+			<File
+				RelativePath="MANAJEMEN WARNET\Manajemen hutang_kecil.gif"
+				>
+			</File>
+			<File
+				RelativePath="MANAJEMEN WARNET_2\manajemen warnet_besar.gif"
+				>
+			</File>
+			<File
+				RelativePath="MANAJEMEN WARNET_2\manajemen warnet_kecil.gif"
+				>
+			</File>
+			<File
+				RelativePath="MANAJEMEN WARNET-hint\Member Hint.gif"
+				>
+			</File>
+			<File
+				RelativePath="MANAJEMEN WARNET\Member_besar.gif"
+				>
+			</File>
+			<File
+				RelativePath="MANAJEMEN WARNET\Member_kecil.gif"
+				>
+			</File>
+			<File
+				RelativePath="HARGA\Membuat Kode Vocher_besar.gif"
+				>
+			</File>
+			<File
+				RelativePath="HARGA-hint\Membuat Kode Vocher_hint.gif"
+				>
+			</File>
+			<File
+				RelativePath="HARGA\Membuat Kode Vocher_kecil.gif"
+				>
+			</File>
+			<File
+				RelativePath="client_2\menu konfigurasi_besar.gif"
+				>
+			</File>
+			<File
+				RelativePath="client_2-hint\menu konfigurasi_hint.gif"
+				>
+			</File>
+			<File
+				RelativePath="client_2\menu konfigurasi_kecil.gif"
+				>
+			</File>
+			<File
+				RelativePath="client\minimize_besar.gif"
+				>
+			</File>
+			<File
+				RelativePath="client-hint\minimize_hint.gif"
+				>
+			</File>
+			<File
+				RelativePath="client\minimize_kecil.gif"
+				>
+			</File>
+			<File
+				RelativePath="SERVER MANAJEMEN\mode pause_besar.gif"
+				>
+			</File>
+			<File
+				RelativePath="SERVER MANAJEMEN\mode pause_kecil.gif"
+				>
+			</File>
+			<File
+				RelativePath="SERVER MANAJEMEN\Mode selesai client_besar.gif"
+				>
+			</File>
+			<File
+				RelativePath="SERVER MANAJEMEN\Mode selesai client_kecil.gif"
+				>
+			</File>
+			<File
+				RelativePath="client\mulai gratis_besar.gif"
+				>
+			</File>
+			<File
+				RelativePath="client-hint\mulai gratis_hint.gif"
+				>
+			</File>
+			<File
+				RelativePath="client\mulai gratis_kecil.gif"
+				>
+			</File>
+			<File
+				RelativePath="MANAJEMEN WARNET-hint\nama member Hint.gif"
+				>
+			</File>
+			<File
+				RelativePath="MANAJEMEN WARNET\nama member_besar.gif"
+				>
+			</File>
+			<File
+				RelativePath="MANAJEMEN WARNET\nama member_kecil.gif"
+				>
+			</File>
+			<File
+				RelativePath="client\option client_besar.gif"
+				>
+			</File>
+			<File
+				RelativePath="client-hint\option client_hint.gif"
+				>
+			</File>
+			<File
+				RelativePath="client\option client_kecil.gif"
+				>
+			</File>
+			<File
+				RelativePath="HARGA_2-hint\Paket event hint.gif"
+				>
+			</File>
+			<File
+				RelativePath="HARGA_2-hint\Paket event tanda hint.gif"
+				>
+			</File>
+			<File
+				RelativePath="HARGA_2\Paket event tanda_besar.gif"
+				>
+			</File>
+			<File
+				RelativePath="HARGA_2\Paket event tanda_kecil.gif"
+				>
+			</File>
+			<File
+				RelativePath="HARGA_2\Paket event_besar.gif"
+				>
+			</File>
+			<File
+				RelativePath="HARGA_2\Paket event_kecil.gif"
+				>
+			</File>
+			<File
+				RelativePath="HARGA_2\Paket special_kecil.gif"
+				>
+			</File>
+			<File
+				RelativePath="HARGA_2-hint\Paket spesial hint.gif"
+				>
+			</File>
+			<File
+				RelativePath="HARGA_2\Paket spesial_besar.gif"
+				>
+			</File>
+			<File
+				RelativePath="ATUR PC_2\Password DeepFreeze harus_besar.gif"
+				>
+			</File>
+			<File
+				RelativePath="ATUR PC_2\Password DeepFreeze harus_kecil.gif"
+				>
+			</File>
+			<File
+				RelativePath="client\pause_besar.gif"
+				>
+			</File>
+			<File
+				RelativePath="client-hint\pause_hint.gif"
+				>
+			</File>
+			<File
+				RelativePath="client\pause_kecil.gif"
+				>
+			</File>
+			<File
+				RelativePath="ATUR PC_2\Penulisan URL website_besar.gif"
+				>
+			</File>
+			<File
+				RelativePath="ATUR PC_2\Penulisan URL website_kecil.gif"
+				>
+			</File>
+			<File
+				RelativePath="ATUR PC_2\pikaBlockPackage_besar.gif"
+				>
+			</File>
+			<File
+				RelativePath="ATUR PC_2\pikaBlockPackage_kecil.gif"
+				>
+			</File>
+			<File
+				RelativePath="ATUR PC_2\PIKABlokPackage untuk_besar.gif"
+				>
+			</File>
+			<File
+				RelativePath="ATUR PC_2\PIKABlokPackage untuk_kecil.gif"
+				>
+			</File>
+			<File
+				RelativePath="client\pilih client_besar.gif"
+				>
+			</File>
+			<File
+				RelativePath="client-hint\pilih client_hint.gif"
+				>
+			</File>
+			<File
+				RelativePath="client\pilih client_kecil.gif"
+				>
+			</File>
+			<File
+				RelativePath="client\pindah pc_besar.gif"
+				>
+			</File>
+			<File
+				RelativePath="client-hint\pindah pc_hint.gif"
+				>
+			</File>
+			<File
+				RelativePath="client\pindah pc_kecil.gif"
+				>
+			</File>
+			<File
+				RelativePath="MANAJEMEN WARNET-hint\Prepay member Hint.gif"
+				>
+			</File>
+			<File
+				RelativePath="MANAJEMEN WARNET\Prepay member_besar.gif"
+				>
+			</File>
+			<File
+				RelativePath="MANAJEMEN WARNET\Prepay member_kecil.gif"
+				>
+			</File>
+			<File
+				RelativePath="previewhint.gif"
+				>
+			</File>
+			<File
+				RelativePath="MANAJEMEN WARNET-hint\Produk batal Hint.gif"
+				>
+			</File>
+			<File
+				RelativePath="MANAJEMEN WARNET\produk batal_besar.gif"
+				>
+			</File>
+			<File
+				RelativePath="MANAJEMEN WARNET\produk batal_kecil.gif"
+				>
+			</File>
+			<File
+				RelativePath="client_2\remote_besar.gif"
+				>
+			</File>
+			<File
+				RelativePath="client_2-hint\remote_hint.gif"
+				>
+			</File>
+			<File
+				RelativePath="client_2\remote_kecil.gif"
+				>
+			</File>
+			<File
+				RelativePath="client\resolusi_besar.gif"
+				>
+			</File>
+			<File
+				RelativePath="client-hint\resolusi_hint.gif"
+				>
+			</File>
+			<File
+				RelativePath="client\resolusi_kecil.gif"
+				>
+			</File>
+			<File
+				RelativePath="HARGA\Saat paket habis menjadi selesai_besar.gif"
+				>
+			</File>
+			<File
+				RelativePath="HARGA-hint\Saat paket habis menjadi selesai_hint.gif"
+				>
+			</File>
+			<File
+				RelativePath="HARGA\Saat paket habis menjadi selesai_kecil.gif"
+				>
+			</File>
+			<File
+				RelativePath="client\security_besar.gif"
+				>
+			</File>
+			<File
+				RelativePath="client-hint\security_hint.gif"
+				>
+			</File>
+			<File
+				RelativePath="client\security_kecil.gif"
+				>
+			</File>
+			<File
+				RelativePath="SERVER MANAJEMEN\Server manajemen_besar.gif"
+				>
+			</File>
+			<File
+				RelativePath="SERVER MANAJEMEN\Server manajemen_kecil.gif"
+				>
+			</File>
+			<File
+				RelativePath="SERVER MANAJEMEN\Set Admin_besar.gif"
+				>
+			</File>
+			<File
+				RelativePath="SERVER MANAJEMEN\Set Admin_kecil.gif"
+				>
+			</File>
+			<File
+				RelativePath="client\set IP_besar.gif"
+				>
+			</File>
+			<File
+				RelativePath="client-hint\set IP_hint.gif"
+				>
+			</File>
+			<File
+				RelativePath="client\set IP_kecil.gif"
+				>
+			</File>
+			<File
+				RelativePath="SERVER MANAJEMEN\set notice pc user_besar.gif"
+				>
+			</File>
+			<File
+				RelativePath="SERVER MANAJEMEN\set notice pc user_kecil.gif"
+				>
+			</File>
+			<File
+				RelativePath="SERVER MANAJEMEN_2\Set Notice_besar.gif"
+				>
+			</File>
+			<File
+				RelativePath="SERVER MANAJEMEN_2-hint\Set Notice_hint.gif"
+				>
+			</File>
+			<File
+				RelativePath="SERVER MANAJEMEN_2\Set Notice_kecil.gif"
+				>
+			</File>
+			<File
+				RelativePath="SERVER MANAJEMEN\Set print scanner_besar.gif"
+				>
+			</File>
+			<File
+				RelativePath="SERVER MANAJEMEN\Set print scanner_kecil.gif"
+				>
+			</File>
+			<File
+				RelativePath="SERVER MANAJEMEN_2\set printer default_besar.gif"
+				>
+			</File>
+			<File
+				RelativePath="SERVER MANAJEMEN_2-hint\set printer default_hint.gif"
+				>
+			</File>
+			<File
+				RelativePath="SERVER MANAJEMEN_2\set printer default_kecil.gif"
+				>
+			</File>
+			<File
+				RelativePath="SERVER MANAJEMEN\Set Server - Set Basic_besar.gif"
+				>
+			</File>
+			<File
+				RelativePath="SERVER MANAJEMEN\Set Server - Set Basic_kecil.gif"
+				>
+			</File>
+			<File
+				RelativePath="SERVER MANAJEMEN_2\Set Sound_besar.gif"
+				>
+			</File>
+			<File
+				RelativePath="SERVER MANAJEMEN_2-hint\Set Sound_hint.gif"
+				>
+			</File>
+			<File
+				RelativePath="SERVER MANAJEMEN_2\Set Sound_kecil.gif"
+				>
+			</File>
+			<File
+				RelativePath="client\Set wallpaper_besar.gif"
+				>
+			</File>
+			<File
+				RelativePath="client-hint\set wallpaper_hint.gif"
+				>
+			</File>
+			<File
+				RelativePath="client\set wallpaper_kecil.gif"
+				>
+			</File>
+			<File
+				RelativePath="HARGA\Seting Harga Kode Paket_besar.gif"
+				>
+			</File>
+			<File
+				RelativePath="HARGA-hint\Seting Harga Kode Paket_hint.gif"
+				>
+			</File>
+			<File
+				RelativePath="HARGA\Seting Harga Kode Paket_kecil.gif"
+				>
+			</File>
+			<File
+				RelativePath="HARGA\Seting Harga siang dan malam_besar.gif"
+				>
+			</File>
+			<File
+				RelativePath="HARGA-hint\Seting Harga siang dan malam_hint.gif"
+				>
+			</File>
+			<File
+				RelativePath="HARGA\Seting Harga siang dan malam_kecil.gif"
+				>
+			</File>
+			<File
+				RelativePath="HARGA\Seting Paket Durasi_besar.gif"
+				>
+			</File>
+			<File
+				RelativePath="HARGA-hint\Seting Paket Durasi_hint.gif"
+				>
+			</File>
+			<File
+				RelativePath="HARGA\Seting Paket Durasi_kecil.gif"
+				>
+			</File>
+			<File
+				RelativePath="HARGA\Seting Paket Event_besar.gif"
+				>
+			</File>
+			<File
+				RelativePath="HARGA-hint\Seting Paket Event_hint.gif"
+				>
+			</File>
+			<File
+				RelativePath="HARGA\Seting Paket Event_kecil.gif"
+				>
+			</File>
+			<File
+				RelativePath="HARGA\Seting Paket Jam_besar.gif"
+				>
+			</File>
+			<File
+				RelativePath="HARGA-hint\Seting Paket Jam_hint.gif"
+				>
+			</File>
+			<File
+				RelativePath="HARGA\Seting Paket Jam_kecil.gif"
+				>
+			</File>
+			<File
+				RelativePath="HARGA\Seting Paket Member_besar.gif"
+				>
+			</File>
+			<File
+				RelativePath="HARGA-hint\Seting Paket Member_hint.gif"
+				>
+			</File>
+			<File
+				RelativePath="HARGA\Seting Paket Member_kecil.gif"
+				>
+			</File>
+			<File
+				RelativePath="HARGA\setpostpay_besar.gif"
+				>
+			</File>
+			<File
+				RelativePath="HARGA-hint\setpostpay_hint.gif"
+				>
+			</File>
+			<File
+				RelativePath="HARGA\setpostpay_kecil.gif"
+				>
+			</File>
+			<File
+				RelativePath="HARGA\Shortcut Paket_besar.gif"
+				>
+			</File>
+			<File
+				RelativePath="HARGA-hint\Shortcut Paket_hint.gif"
+				>
+			</File>
+			<File
+				RelativePath="HARGA\Shortcut Paket_kecil.gif"
+				>
+			</File>
+			<File
+				RelativePath="MANAJEMEN WARNET-hint\skin Hint.gif"
+				>
+			</File>
+			<File
+				RelativePath="MANAJEMEN WARNET-hint\Skin Warna Hint.gif"
+				>
+			</File>
+			<File
+				RelativePath="MANAJEMEN WARNET\skin warna_besar.gif"
+				>
+			</File>
+			<File
+				RelativePath="MANAJEMEN WARNET\skin warna_kecil.gif"
+				>
+			</File>
+			<File
+				RelativePath="MANAJEMEN WARNET\skin_besar.gif"
+				>
+			</File>
+			<File
+				RelativePath="MANAJEMEN WARNET\Skin_kecil.gif"
+				>
+			</File>
+			<File
+				RelativePath="client\software_besar.gif"
+				>
+			</File>
+			<File
+				RelativePath="client-hint\software_hint.gif"
+				>
+			</File>
+			<File
+				RelativePath="client\software_kecil.gif"
+				>
+			</File>
+			<File
+				RelativePath="SERVER MANAJEMEN_2\Susunan quick menu_besar.gif"
+				>
+			</File>
+			<File
+				RelativePath="SERVER MANAJEMEN_2-hint\Susunan quick menu_hint.gif"
+				>
+			</File>
+			<File
+				RelativePath="SERVER MANAJEMEN_2\Susunan quick menu_kecil.gif"
+				>
+			</File>
+			<File
+				RelativePath="client_2\table size_besar.gif"
+				>
+			</File>
+			<File
+				RelativePath="client_2-hint\table size_hint.gif"
+				>
+			</File>
+			<File
+				RelativePath="client_2\table size_kecil.gif"
+				>
+			</File>
+			<File
+				RelativePath="MANAJEMEN WARNET_2\Tambah antrian_besar.gif"
+				>
+			</File>
+			<File
+				RelativePath="MANAJEMEN WARNET_2\Tambah antrian_kecil.gif"
+				>
+			</File>
+			<File
+				RelativePath="HARGA_2-hint\Tampilan login bebas hint.gif"
+				>
+			</File>
+			<File
+				RelativePath="HARGA_2\Tampilan login bebas_besar.gif"
+				>
+			</File>
+			<File
+				RelativePath="HARGA_2\Tampilan login bebas_kecil.gif"
+				>
+			</File>
+			<File
+				RelativePath="client\tampilan tabel_besar.gif"
+				>
+			</File>
+			<File
+				RelativePath="client-hint\tampilan tabel_hint.gif"
+				>
+			</File>
+			<File
+				RelativePath="client\tampilan tabel_kecil.gif"
+				>
+			</File>
+			<File
+				RelativePath="client_2\tampilan table_besar.gif"
+				>
+			</File>
+			<File
+				RelativePath="client_2-hint\tampilan table_hint.gif"
+				>
+			</File>
+			<File
+				RelativePath="client_2\tampilan table_kecil.gif"
+				>
+			</File>
+			<File
+				RelativePath="HARGA_2-hint\Tarif per unit hint.gif"
+				>
+			</File>
+			<File
+				RelativePath="HARGA_2\Tarif per unit_besar.gif"
+				>
+			</File>
+			<File
+				RelativePath="HARGA_2\Tarif per unit_kecil.gif"
+				>
+			</File>
+			<File
+				RelativePath="ATUR PC_2\Tombol BlokSitus notepad_besar.gif"
+				>
+			</File>
+			<File
+				RelativePath="ATUR PC_2\Tombol BlokSitus notepad_Kecil.gif"
+				>
+			</File>
+			<File
+				RelativePath="ATUR PC_2\Tombol Normal Mode Shadow_besar.gif"
+				>
+			</File>
+			<File
+				RelativePath="ATUR PC_2\Tombol Normal Mode Shadow_kecil.gif"
+				>
+			</File>
+			<File
+				RelativePath="client_2\total_besar.gif"
+				>
+			</File>
+			<File
+				RelativePath="client_2-hint\total_hint.gif"
+				>
+			</File>
+			<File
+				RelativePath="client_2\total_kecil.gif"
+				>
+			</File>
+			<File
+				RelativePath="MANAJEMEN WARNET-hint\Transfer terima Hint.gif"
+				>
+			</File>
+			<File
+				RelativePath="MANAJEMEN WARNET\Transfer terima_besar.gif"
+				>
+			</File>
+			<File
+				RelativePath="MANAJEMEN WARNET\Transfer terima_kecil.gif"
+				>
+			</File>
+			<File
+				RelativePath="MANAJEMEN WARNET-hint\Tutup buku dan melihat laporan Hint.gif"
+				>
+			</File>
+			<File
+				RelativePath="MANAJEMEN WARNET\Tutup buku dan melihat laporan_besar.gif"
+				>
+			</File>
+			<File
+				RelativePath="MANAJEMEN WARNET\Tutup buku dan melihat laporan_kecil.gif"
+				>
+			</File>
+			<File
+				RelativePath="SERVER MANAJEMEN\Tutup Buku_besar.gif"
+				>
+			</File>
+			<File
+				RelativePath="SERVER MANAJEMEN\Tutup Buku_kecil.gif"
+				>
+			</File>
+			<File
+				RelativePath="ATUR PC_2\Window Install Blok Situs_besar.gif"
+				>
+			</File>
+			<File
+				RelativePath="ATUR PC_2\Window Install Blok Situs_kecil.gif"
+				>
+			</File>
+		</Filter>
+		<File
+			RelativePath="client.lst"
+			>
+		</File>
+		<File
+			RelativePath="zzz.png"
+			>
+		</File>
+	</Files>
+	<Globals>
+	</Globals>
+</VisualStudioProject>
