@@ -507,7 +507,8 @@ void CFunc::ExecuteControlPanel()
 
 void CFunc::ExecuteDefaultIE()
 {
-	ShellExecute(NULL, "open", "iexplore.exe", "http://adpica.mediaweb.co.kr/RealMedia/ads/adstream_sx.ads/start/tools_browser@x96", NULL, SW_SHOWNORMAL);//ShellExecute(NULL, "open", "iexplore.exe", "http://adclick.mediaweb.co.kr:8080/html.kti/picamanager/_air@browser", NULL, SW_SHOWNORMAL);
+	CString strUrl = "";
+	ShellExecute(NULL, "open", "iexplore.exe", strUrl, NULL, SW_SHOWNORMAL);
 }
 
 BOOL CFunc::DeleteFolderA(CString strFolderPath)
